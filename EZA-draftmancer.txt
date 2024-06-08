@@ -551,7 +551,7 @@
 	    {
 	        "name": "Souleater Machine",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}H",
+	        "mana_cost": "{3}{P}",
 	        "type": "Artifact Creature — Phyrexian Construct ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Souleater Machine.jpg"
