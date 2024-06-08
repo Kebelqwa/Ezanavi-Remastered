@@ -1,0 +1,3897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>EZA</name>
+      <longname>Ezanavi Remastered</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Ghostblade Spirit</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you have cast no spells this turn, Ghostblade Spirit has hexproof.
+When Ghostblade Spirit becomes the target of a spell or ability, sacrifice Ghostblade Spirit.</text>
+    </card>
+    <card>
+      <name>Landsurge</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G // 1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery // Instant - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+--- 
+Add two mana in any combination of colors.</text>
+    </card>
+    <card>
+      <name>Sunquash Colossus</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R // 1R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>3/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>
+--- 
+Sunbolts deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Gitaxian Engine</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Phyrexian Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, look at the top card of your library. You may put that card into your hand. When you do, shuffle a card from your hand into your library.</text>
+    </card>
+    <card>
+      <name>Blazing Abomination</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Elemental Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+{R}: Blazing Abomination gets +1/+0 until end of turn.
+2R: Blazing Abomination gains first strike until end of turn.
+You may pay {0} rather than pay for echo costs.</text>
+    </card>
+    <card>
+      <name>Malfunction Myr</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Phyrexian Myr </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may choose not to untap Malfunction Myr during your untap step.
+At the beginning of your upkeep, if Malfunction Myr is tapped, put a +1/+1 counter on each artifact creature you control.
+{T}: Create a 1/1 colorless Myr artifact creature token.</text>
+    </card>
+    <card>
+      <name>Dragonflame Spitter</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+When you pay Dragonflame Spitter’s echo cost, create two 2/2 red Dragon creature tokens with flying and “{R}: This creature gets +1/+0 until end of turn.”
+Echo 4RR (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+    </card>
+    <card>
+      <name>Aetherbond Titan</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Phyrexian Construct </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you own three or more cards in exile, Aetherbond Titan has indestructible.</text>
+    </card>
+    <card>
+      <name>Inquisitor&apos;s Scorn</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to one target creature. Draw two cards then discard any number of cards. Inquisitor’s Scorn deals damage to that creature equal to the total mana value of cards discarded this way.</text>
+    </card>
+    <card>
+      <name>Descry</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player reveals their hand. Choose a nonland card from it. That player puts that card into their library third from the top.
+Each player draws a card.</text>
+    </card>
+    <card>
+      <name>Phyretic Templar</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever one or more creatures with -1/-1 counters on them deal combat damage to you, draw a card.</text>
+    </card>
+    <card>
+      <name>Alloy Knight</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2 // 4</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct Knight  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>2/1</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Protection from artifacts (This creature can’t be blocked, targeted, dealt damage, or equipped by artifacts.)
+--- 
+Return target artifact card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Gather Allies</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W // 1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery // Sorcery - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 white Knight creature token with exalted.
+--- 
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Darkworld Nuisance</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B // 1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Imp  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>1/1</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flying, lifelink
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+--- 
+Proliferate.</text>
+    </card>
+    <card>
+      <name>Mystic Polymorph</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU // 4UUU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Shapeshifter  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>
+You may have Mystic Polymorph enter the battlefield as a copy of any creature on the battlefield except it can’t be blocked.
+
+--- 
+Any number of target creatures you control each become a copy of target creature you control until end of turn.</text>
+    </card>
+    <card>
+      <name>Living Probe</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Bird Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Living Probe deals combat damage to a player, that player mills two cards. (They put the top two cards of their library into their graveyard.)</text>
+    </card>
+    <card>
+      <name>Smog Reaper</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Smog Reaper costs {1} less to cast for each creature that died this turn.
+When Smog Reaper enters the battlefield, return each creature from a graveyard that was put there from the battlefield this turn to the battlefield under their owners control.</text>
+    </card>
+    <card>
+      <name>Writhing Nightmare</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever a creature you control dies, each player loses life equal to that creature’s mana value.</text>
+    </card>
+    <card>
+      <name>Modified Thopter</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Modified Thopter has indestructible as long as its attacking.
+{2}: Modified Thopter gets +2/+1 until end of turn. Activate this ability only once each turn.</text>
+    </card>
+    <card>
+      <name>Ralixan Cleric</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a card you own is put into exile from anywhere you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Order of Norn</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2H/WH/W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all damage that would be dealt to target creature this turn.</text>
+    </card>
+    <card>
+      <name>Warper&apos;s Amulet</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more cards are put into exile from anywhere, put a charge counter on Warper’s Amulet.
+{T}: Exile target card from a graveyard.
+{T}, Remove all charge counters from Warper’s Amulet: Draw a card for each counter removed this way.</text>
+    </card>
+    <card>
+      <name>Path of War</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RRR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Whenever another source you control deals damage to a player you may have Path of War deal that much damage to a creature that player controls.
+Whenever another source you control deals damage to a creature, you may have Path of War deal that much damage to that creature’s controller.</text>
+    </card>
+    <card>
+      <name>Noble Griffin</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Griffin </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Skyway Hellkite</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+2R, Exile a card from your graveyard: Skyway Hellkite gets +1/+0 for each card you own in exile until end of turn.</text>
+    </card>
+    <card>
+      <name>Scroll Keeper</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cycling 2U (2U, Discard this card: Draw a card.)
+When you cycle Scroll Keeper, if you’ve cast a spell this turn, return Scroll Keeper from your graveyard to your hand at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Adaptive Blade</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature deals combat damage, put a +1/+1 counter on it.
+Sacrifice another artifact: Put a +1/+1 counter on equipped creature. Activate only as a sorcery.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Axemad Monger</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as Axemad Monger is modified it has menace. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Menrylia&apos;s Chosen</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG // 2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Shaman  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Menrylia’s Chosen can’t be blocked by more than one creature.
+Other Elf creatures you control get +1/+1 and can’t be blocked by more than one creature.
+--- 
+Distribute three +1/+1 counters among up to three target creatures you control.</text>
+    </card>
+    <card>
+      <name>Might of the Carnivore</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+3 until end of turn. Then if that creature is modified, scry 2. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Steel Wall</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender</text>
+    </card>
+    <card>
+      <name>Roilsoul</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant Druid </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of each upkeep, if a player cast more spells last turn than the number of creatures you control, sacrifice Roilsoul.
+Whenever a land enters the battlefield under your control, untap each land you control.</text>
+    </card>
+    <card>
+      <name>Imperial Elf</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G // 1G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Shaman  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>1/2</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>1G: Imperial Elf gets +1/+1 and gains hexproof until end of turn.
+--- 
+Target creature you control gets +1/+1 and gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Goblin Firecaller</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Goblin Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Goblin Firecaller attacks, if you own a card in exile, create a tapped and attacking 1/1 red Goblin creature token.</text>
+    </card>
+    <card>
+      <name>Sylvan Gift</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards. Untap each land you control.</text>
+    </card>
+    <card>
+      <name>Overworld Ghast</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+Noncreature spells you cast cost {1} less for each other noncreature spell you’ve cast this turn.</text>
+    </card>
+    <card>
+      <name>Enter the Den</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Enter the Den enters the battlefield, you gain 4 life.
+Whenever you gain life, create a 2/2 white Cat creature token. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Scattered Lightning</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scattered Lightning deals 2 damage divided among any number of target creatures and or players. If a creature would die this way, exile it instead.</text>
+    </card>
+    <card>
+      <name>Ezanavi Apocalypse</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BBB</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player discards their hand then sacrifices all permanents they control.</text>
+    </card>
+    <card>
+      <name>Pathway Messengers</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Pathway Messengers deals combat damage to a creature, flip a coin. If you win the flip, Pathway Messengers gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Soulrend</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cast Soulrend only if a creature attacked or blocked this turn.
+Exile target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Voice of Gix</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever Voice of Gix enters the battlefield or is dealt damage, proliferate.</text>
+    </card>
+    <card>
+      <name>Dalwood Protector</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG // XGG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>5/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Trample
+--- 
+Untap up to X target lands you control. They become 2/2 green Elemental creatures until end of turn. They are still lands.</text>
+    </card>
+    <card>
+      <name>Thenebras</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBBB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+When Thenebras enters the battlefield, put a -1/-1 counter on each creature you don’t control.
+Whenever a creature you don’t control with a -1/-1 counter on it is dealt damage, destroy that creature.</text>
+    </card>
+    <card>
+      <name>Recycle Machinery</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact. If it’s an Equipment, put a +1/+1 counter on up to one target creature you control.
+Scry 2.</text>
+    </card>
+    <card>
+      <name>Blade of the Survivor</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature enters the battlefield under your control, you may attach Blade of the Survivor to it.
+Modified creatures you control have haste. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Overworld Sage</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Overworld Sage or another creature you control is dealt damage, draw a card.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Dreadculler Headhunter</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Skulk (This creature can’t be blocked by creatures with greater power.)
+Whenever Dreadculler Headhunter deals combat damage to a player or is dealt damage, target player mills five cards. Draw a card for each creature card put into a graveyard this way.</text>
+    </card>
+    <card>
+      <name>Silent Entity</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Phyrexian Spider Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Silent Entity can’t be blocked.
+Whenever a creature you control is dealt damage you may draw a card. If you do, discard a card.</text>
+    </card>
+    <card>
+      <name>Souleater Machine</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3H</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Phyrexian Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Souleater Machine enters the battlefield or attacks, target artifact creature or equipped creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Overworld Palace</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Overworld Palace enters the battlefield tapped unless you’ve cast a spell this turn.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Ralixan Oasis</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Ralixan Oasis enters the battlefield tapped unless you’ve cast a spell this turn.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Tangled Ruins</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Tangled Ruins enters the battlefield tapped unless you’ve cast a spell this turn.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Nimul Mucklands</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Nimul Mucklands enters the battlefield tapped unless you’ve cast a spell this turn.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Dreadculler Lair</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Dreadculler Lair enters the battlefield tapped unless you’ve cast a spell this turn.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Lunar Gateway</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add an amount of mana of any one color equal to the number of cards you own in exile of that color.</text>
+    </card>
+    <card>
+      <name>Thane&apos;s Knight</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Horror Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Protection from creatures with one or more counters.
+When Thane’s Knight enters the battlefield, put a -1/-1 counter on up to one target creature.</text>
+    </card>
+    <card>
+      <name>Brink</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U // 3UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant // Instant - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell or ability unless its controller pays {2}.
+--- 
+Exile any number of target creatures you control. Then return those cards to the battlefield under their owner’s control.</text>
+    </card>
+    <card>
+      <name>Sowrazer Stag</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, vigilance</text>
+    </card>
+    <card>
+      <name>Illusory Phenomenon</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to two target creatures to their owner’s hand.
+Cycling 2U
+When you cycle Illusory Phenomenon, you may return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Adapted Warhorse</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Phyrexian Horse Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Adapted Warhorse or another creature you control attacks, Adapted Warhorse deals 1 damage to defending player.
+Echo 2RR (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+    </card>
+    <card>
+      <name>Pthisus Contamination</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant permanent
+Whenever enchanted permanent becomes tapped, its controller loses 1 life.
+If enchanted permanent is a creature, damage that would be dealt to it is dealt in the form of -1/-1 counters instead.</text>
+    </card>
+    <card>
+      <name>Thran Probe</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Phyrexian Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw a card, you may discard a card. If you do, put a charge counter on Thran Probe. This ability triggers only once each turn.
+{T}, Remove a charge counter from Thran Probe: Draw a card.</text>
+    </card>
+    <card>
+      <name>Ei&apos;tal Horror</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Phyrexian Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ei’tal Horror enters the battlefield with three +1/+1 counters.
+At the beginning of each combat on your turn, you may move a +1/+1 counter from Ei’tal Horror to a nonartifact creature you control. If you do, Ei’tal Horror gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Hidden Armory</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice a nontoken artifact: Create Sword token. (Its an Equipment artifact token with “Equipped creature gets +1/+1.” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Hex Mist</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt to target creature you control this turn. If a land entered the battlefield under your control this turn, prevent all damage that would be dealt to each creature you control instead.</text>
+    </card>
+    <card>
+      <name>Physical Restraint</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature is dealt damage, you may attach Physical Restraint to another target creature. If you don’t, destroy enchanted creature.</text>
+    </card>
+    <card>
+      <name>Ei&apos;tal Betrayer</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Ei’tal Betrayer enters the battlefield or dies, choose a kind of counter. Double the number of counters of that kind on target creature.</text>
+    </card>
+    <card>
+      <name>Punishing Flame</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, Punishing Flame deals 3 damage to target creature or planeswalker.
+Echo 4RR (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+    </card>
+    <card>
+      <name>Scion of the Lotus</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a land, {T}: Add two mana of any one color.</text>
+    </card>
+    <card>
+      <name>Bladechild</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bladechild enters the battlefield with a Sword attached to it.</text>
+    </card>
+    <card>
+      <name>Grim Unburial</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B // 4B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery // Sorcery - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. It gains haste until end of turn and attacks this turn if able. Sacrifice it at the next end step.
+--- 
+Return target creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Atro, Eternities&apos; Guard</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UUU</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Land cards in your hand have cycling {0}.
+When Atro enters the battlefield, if you cast it, discard your hand. Then draw two cards for each card discarded this way.
+Cycling 2U</text>
+    </card>
+    <card>
+      <name>Myr Servant</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Phyrexian Myr </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Myr Servant can’t attack a player unless that player controls a creature.</text>
+    </card>
+    <card>
+      <name>Ei&apos;tal Predator</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Ei’tal Predator attacks, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Consuming Curse</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BBB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura Curse </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant player
+Enchanted player can’t win the game and their opponents can’t lose the game unless enchanted player has 10 or less life.</text>
+    </card>
+    <card>
+      <name>Dauntless Rage</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R // 5RR</manacost>
+        <cmc>1</cmc>
+        <type>Instant // Instant - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+0 and gains haste until end of turn.
+--- 
+Rageflame X damage to target player or planeswalker, where X is the greatest power among creatures that entered the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>Talon Mantra</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2 and has lifelink and reach.</text>
+    </card>
+    <card>
+      <name>Fairglade Elf</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color. Each opponent gains 2 life.</text>
+    </card>
+    <card>
+      <name>Amphin Alchemist</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Salamander Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Skulk (This creature can’t be blocked by creatures with greater power.)
+Whenever you discard a card, Amphin Alchemist gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Tesaren Transfiguration</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target creature spell. If a spell is countered this way, put it on top of its owners library instead of its owners graveyard.
+Draw a card</text>
+    </card>
+    <card>
+      <name>Tranquil Gardens</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tranquil Gardens enters the battlefield, draw a card.
+Enchant land
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color.</text>
+    </card>
+    <card>
+      <name>Mana Gauntlet</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>XX</manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Mana Gauntlet enters the battlefield with X charge counters.
+{T}: Add {C} for each charge counter on Mana Gauntlet.</text>
+    </card>
+    <card>
+      <name>Dreg Mob</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Lizard Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
+1B: Dreg Mob gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Tesaren Wings</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+When enchanted creature dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Scion of Wind</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a player discards a card, Scion of Wind gets +1/+1 and gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Blunt Diplomacy</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature blocks, Blunt Diplomacy deals 2 damage to that creature’s controller.
+Sacrifice Blunt Diplomacy: Target attacking creature you control must be blocked by another target creature this combat if able.</text>
+    </card>
+    <card>
+      <name>Corruptive Symbiote</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Corruptive Symbiote becomes attached to a creature, You may move any number of counters from Corruptive Symbiote to that creature. Then put a +1/+1 counter on that creature.
+When equipped creature dies, you may put its counters on Corruptive Symbiote.
+Equip—Sacrifice a creature</text>
+    </card>
+    <card>
+      <name>Blood Alchemist</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B // B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Wizard  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>2/1</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>
+--- 
+As an additional cost to cast this spell, pay 2 life.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Necrogen Outbreak</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put X -1/-1 counters on target creature. When that creature dies this turn, put all its -1/-1 counters onto another target creature.</text>
+    </card>
+    <card>
+      <name>Smite the Monstrous</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>Duskbane Angel</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Whenever Duskbane Angel or another creature you control is dealt damage, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Disciple of Madt</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Disciple of Madt enters the battlefield with two Sword tokens attached to it. (They’re Equipment artifact tokens with “Equipped creature gets +1/+1.” and equip {2}.)
+Modified creatures you control have double strike. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Servants of Senzu</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Elf Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Lost Everything</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a -1/-1 counter on each creature you don’t control. Then proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Proven Worthy</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WWW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three 1/1 white Knight creature tokens with exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Blisterflame</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to one target creature an opponent controls. When that creature dies this turn, if this card is in your graveyard, you may return it to your hand. Blisterflame deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Torment Engine</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Torment Engine enters the battlefield, choose a creature or planeswalker card name.
+Spells with the chosen name can’t be cast.</text>
+    </card>
+    <card>
+      <name>Arcana Hunter</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may choose to not untap Arcana Hunter during your untap step.
+2UB, {T}: Target permanent doesn’t doesn’t untap during its controller’s untap step for as long as Arcana Hunter remains tapped.</text>
+    </card>
+    <card>
+      <name>Ghostfire Hellhound</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hound </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ghostfire Hellhound enters the battlefield or dies, it deals 2 damage to target creature you don’t control.
+Echo 1RR (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+    </card>
+    <card>
+      <name>Madt Sword</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2 and has vigilance.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Tesaren Transmuter</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU // 2U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter Wizard  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>0/0</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may have Tesaren Transmuter enter the battlefield as a copy another creature you control.
+When another creature with the same name as Tesaren Transmuter dies, sacrifice Tesaren Transmuter.
+--- 
+Until end of turn, Target creature you control becomes a copy of another target creature you control.</text>
+    </card>
+    <card>
+      <name>Tezzeret, Bolas&apos;s Seeker</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Tezzeret </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Draw a card.
+[-1]: Create a 3/3 colorless Golem artifact creature token.
+[-6]: Draw a card for each artifact card you own among cards in your graveyard and in exile.</text>
+    </card>
+    <card>
+      <name>Heroes&apos; Reunion</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player gains 7 life.</text>
+    </card>
+    <card>
+      <name>Urabrask Fodder</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Phyrexian Goblin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+When Urabrask Fodder dies, it deals 1 damage to any target. If this targets a creature that dealt damage to Urabrask Fodder this turn, it deal 3 damage to that target instead.</text>
+    </card>
+    <card>
+      <name>Hornback Goliath</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Hornback Goliath deals combat damage to a player, you may draw that many cards.</text>
+    </card>
+    <card>
+      <name>Infiltrator&apos;s Cloak</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature deals combat damage to a player, draw a card for each Equipment attached to it.
+Equip {5}</text>
+    </card>
+    <card>
+      <name>Delayed Imports</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your draw step you may draw an additional card. If you do, discard a card.</text>
+    </card>
+    <card>
+      <name>Unfettered Virtue</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control get +1/+1.
+3W: Create a 1/1 white Knight creature token with exalted.</text>
+    </card>
+    <card>
+      <name>Fiery Encore</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Copy target noncreature spell. Create a red Elemental creature token with power and toughness equal to that spell’s mana value.</text>
+    </card>
+    <card>
+      <name>Call from Beyond</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WUB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. When that spell is countered this way, choose one—
+• You gain life equal to that spell’s mana value.
+• It’s controller loses life equal to that spell’s mana value.</text>
+    </card>
+    <card>
+      <name>Brass Hydra</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Phyrexian Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Brass Hydra enters the battlefield, choose one—
+• Target creature you control gets +2/+2 until end of turn.
+• Target creature an opponent controls gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Dreadculler Agent</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Dreadculler Agent or another creature you control is dealt damage, target player mills two cards. (They put the top two cards of their library into their graveyard.)</text>
+    </card>
+    <card>
+      <name>Final Triumph</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>RW // RW</manacost>
+        <cmc>2</cmc>
+        <type>Instant // Instant - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+1 for each creature you control until end of turn. Sacrifice that creature at the beginning of the next end step.
+--- 
+Last Helix deals 3 damage to any target. You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Glacial Gloombeast</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Illusion Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Glacial Gloombeast becomes the target of a spell or ability, sacrifice it.
+{3}: Glacial Gloombeast gets -1/-1 until end of turn. Any player may activate this ability.</text>
+    </card>
+    <card>
+      <name>Glistening Frost</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to two target creatures. Then choose one—
+• Those creatures don’t untap during their controller’s next untap step.
+• Draw a card.</text>
+    </card>
+    <card>
+      <name>Oilfire Dragon</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Phyrexian Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+When Oilfire Dragon dies, it deals 3 damage to you.
+Echo 2R (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+    </card>
+    <card>
+      <name>Aether Bonds</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Aether Bonds enters the battlefield, tap target creature.
+Enchanted creature doesn’t untap during its controller’s untap step.
+{8}: Return enchanted creature and Aether Bonds each to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>Ichorslick Blade</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0.
+When equipped creature dies, you may sacrifice Ichorslick Blade. If you do, put target artifact card in your graveyard on top of your library.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Blighted Shadow</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Shade </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Blighted Shadow can’t block.
+Whenever Blighted Shadow attacks, put a -1/-1 counter on it.
+When Blighted Shadow dies, move its -1/-1 counters to another target creature.</text>
+    </card>
+    <card>
+      <name>Corporeal Injury</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. If that creature was dealt damage this turn, its controller discards a card.</text>
+    </card>
+    <card>
+      <name>Silent Stab</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>H/B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player loses 2 life. Then if {B} was spent to cast Silent Stab, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Captivating Duelist</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+When Captivating Duelist enters the battlefield, you may attach an Equipment you control to it.</text>
+    </card>
+    <card>
+      <name>Artifice Shell</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>2 // 4</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment  // Sorcery - Aftermath </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When equipped creature dies, you may sacrifice Artifice Shell. When you do, create a 3/3 colorless Phyrexian Golem artifact creature token.
+Equip {0}
+--- 
+Create a 3/3 colorless Phyrexian Golem artifact creature token.</text>
+    </card>
+    <card>
+      <name>Ashen Horror</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Elemental Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Ashen Horror enters the battlefield, discard two cards then draw two cards.
+Echo 1R (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+    </card>
+    <card>
+      <name>Senzu the Madman</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Phyrexian Elf Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Senzu is dealt damage, return all creature cards that were put into a graveyard from the battlefield this turn from all graveyards to the battlefield tapped under their owners’ control.</text>
+    </card>
+    <card>
+      <name>Gut Shot</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>H/R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gut Shot deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Glistener Pawns</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Phyrexian Horror Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Glistener Pawns enters the battlefield with a number of -1/-1 counter on it equal to the number of creatures you don’t control.
+Whenever a creature enters the battlefield under an opponents control, you may move a -1/-1 counter from Glistener Pawns onto that creature.</text>
+    </card>
+    <card>
+      <name>Senzu&apos;s Doomspeaker</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Elf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Creatures deal damage as though they had wither. (They deal damage to other creatures in the form of -1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Skyrune</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+When Skyrune enters the battlefield, exile two target nonland permanents until Skyrune leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Consumer of Worlds</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Phyrexian Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Consumer of Worlds is dealt combat damage, sacrifice that many lands.
+Whenever Consumer of Worlds deals combat damage to a player, that player sacrifices that many lands.</text>
+    </card>
+    <card>
+      <name>Urabrask&apos;s Emissary</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Phyrexian Elemental Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+{R}: Urabrask’s Emissary gets +1/+0 until end of turn.
+Whenever Urabrask’s Emissary is dealt damage, it deals damage equal to its power to another target creature. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Lingering Reality</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Flash
+Whenever enchanted damage deals combat damage to a player, draw two cards.</text>
+    </card>
+    <card>
+      <name>Orthodoxy Activation</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XW</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to X target creatures you control each gain exalted until end of turn. If X is greater than the number of creatures you control, instead those creatures get +X/+X until end of turn. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Gitaxian Probe</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>H/U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at target player’s hand.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Machine&apos;s Embrace</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>H/W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all damage that would be dealt to and dealt by target creature this turn.</text>
+    </card>
+    <card>
+      <name>Vault of the Ancients</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}. When this mana is spent to cast the second spell you cast this turn, put a +1/+1 counter on Vault of the Ancients.
+{3}: Vault of the Ancients becomes a 0/0 colorless Golem artifact creature until end of turn. Its still a land.</text>
+    </card>
+    <card>
+      <name>Mutagenic Growth</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>H/G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Fleshrage</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Distribute X +1/+1 counters among X target creatures you control.</text>
+    </card>
+    <card>
+      <name>Darkworld Equinox</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each player, that player discards their hand then searches their library for a card and puts it into their hand, then shuffles their library.</text>
+    </card>
+    <card>
+      <name>Brutal Cataclysm</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Brutal Cataclysm deals 2 damage to each attacking creature. When a creature dealt damage this way dies this turn, its controller loses 2 life.</text>
+    </card>
+    <card>
+      <name>Madt Avenged</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lifelink
+Madt Avenged deals damage to the owner of target creature equal to that creature’s power. Return that creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Bloodmist Glider</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Sacrifice two creatures: Bloodmist Glider gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Wreckage Monger</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Phyrexian Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Wreckage Monger can’t be blocked alone.
+When Wreckage Monger dies, you may sacrifice a creature. If you do, put Wreckage Monger on top of your library.</text>
+    </card>
+    <card>
+      <name>Battlewise Enigma</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Battlewise Enigma and another creature you control: You gain life equal to the total power among creatures sacrificed this way.</text>
+    </card>
+    <card>
+      <name>Tesaren Protector</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Lifelink
+When Tesaren Protector enters the battlefield, return a creature you control and a creature you don’t control each to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>Brightmind Trickster</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{T}: Draw a card, then discard a card. If an instant card was discarded this way, Brightmind Trickster gains hexproof until end of turn. If a sorcery card was discarded this way, put a +1/+1 counter on Brightmind Trickster.</text>
+    </card>
+    <card>
+      <name>Aftermath Hellkite</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+XR: Aftermath Hellkite deals X damage to target creature that was dealt damage this turn.</text>
+    </card>
+    <card>
+      <name>Druid Den</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Druid Den enters the battlefield tapped unless you’ve cast a spell this turn.
+{T} Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Warpers&apos; Lab</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Warpers’ Lab enters the battlefield tapped unless you’ve cast a spell this turn.
+{T} Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Radiant Outskirts</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Radiant Outskirts enters the battlefield tapped unless you’ve cast a spell this turn.
+{T} Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Madt Barracks</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Madt Barracks enters the battlefield tapped unless you’ve cast a spell this turn.
+{T} Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Senzu&apos;s Hideout</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Senzu’s Hideout enters the battlefield tapped unless you’ve cast a spell this turn.
+{T} Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Fatality Guise</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+At the beginning of the upkeep of enchanted creature’s controller, you gain 1 life. If that player is an opponent, they lose 1 life.
+When enchanted creature dies, put X -1/-1 counters on target creature, where X is enchanted creatures power.</text>
+    </card>
+    <card>
+      <name>Rift Storm</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3H/R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Rift Storm deals 1 damage to target player and each creature and planeswalker that player controls. If you control three or more cards in exile, Rift Storm deals 3 damage to that player and each of those permanents instead.</text>
+    </card>
+    <card>
+      <name>Walking Brambles</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a land enters the battlefield under your control, untap Walking Brambles.
+{T}: Put a +1/+1 counter on Walking Brambles.</text>
+    </card>
+    <card>
+      <name>Sylvan Prosperity</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +3/+3.
+Whenever a creature enters the battlefield under your control, you may attach Sylvan Prosperity to it.</text>
+    </card>
+    <card>
+      <name>Power from Practice</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +3/+3 and has hexproof.</text>
+    </card>
+    <card>
+      <name>World Fracture</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When World Fracture enters the battlefield, create a 1/1 white Phyrexian Soldier creature token.
+Whenever a creature you control is dealt damage, you gain 1 life.
+Whenever a creature you don’t control dies its controller loses 1 life.</text>
+    </card>
+    <card>
+      <name>Arcane Recurve</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U // 3U</manacost>
+        <cmc>1</cmc>
+        <type>Instant // Instant - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target spell to its owner’s hand.
+--- 
+Copy target instant or sorcery spell you control, then return it to its owner’s hand. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Dalwood Titan</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Dalwood Titan is dealt damage, draw a card.</text>
+    </card>
+    <card>
+      <name>Whispering Shaman</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>5GG: Create a 3/3 green Beast creature token. This ability costs {1} less for each Beast creature you control.</text>
+    </card>
+    <card>
+      <name>Plane&apos;s Captive</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Plane’s Captive enters the battlefield, exile target creature until Plane’s Captive leaves the battlefield.
+Whenever Plane’s Captive is dealt damage, exile target creature until Plane’s Captive leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Fire with Fire</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XXR // R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery // Sorcery - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create X 2/2 red Dragon creature tokens with flying and “{R}: This creature gets +1/+0 until end of turn.”
+--- 
+Creatures you control gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Chancellor of Riddles</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Chancellor of Riddles is dealt damage, you may reveal an instant or sorcery card from your hand. If you do, search your library for a card with the same name as the revealed card and put it into your hand. Then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Holy Might</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W // 4W</manacost>
+        <cmc>2</cmc>
+        <type>Instant // Instant - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains lifelink until end of turn.
+--- 
+You gain life equal to the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>Skycoil Wurm</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4H/GH/G</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Phyrexian Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Overworld Cloak</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 for each Aura you control and has hexproof.
+Whenever enchanted creature attacks, you may untap another target nonland permanent you control.</text>
+    </card>
+    <card>
+      <name>Celestial Vengeance</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage target creature would deal this turn. If damage is prevented this way, Celestial Vengeance deals that much damage to that creature.</text>
+    </card>
+    <card>
+      <name>Fall</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WWW // 2WW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery // Instant - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target creature you control gains indestructible until end of turn. Destroy all other creatures.
+--- 
+Destroy target attacking creature.
+</text>
+    </card>
+    <card>
+      <name>Elusive Reaver</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U // U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Horror  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flying
+--- 
+Target creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Submerged Despair</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3H/U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Skulk (This creature can’t be blocked by creatures with greater power.)
+Whenever Submerged Despair deals combat damage to a player, that player mills four cards. (They put the top four cards of their library into their graveyard.)</text>
+    </card>
+    <card>
+      <name>Assured Destruction</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>RG // 4RG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery // Instant - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights another target creature.
+--- 
+Destruct deals 4 damage to any target.</text>
+    </card>
+    <card>
+      <name>Menrylia, Sylvan Heir</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>3GW // GW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Elf Wizard  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Whenever one or more lands and/or Elf creatures you control become untapped, you gain that much life.
+--- 
+Untap each permanent you control.</text>
+    </card>
+    <card>
+      <name>Elite Bargains</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When you cast Elite Bargains or another multicolored spell, create a colorless artifact token named Gold with “Sacrifice this artifact: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Warp Bolt</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Warp Bolt deals 4 damage to any target. Each player draws a card.</text>
+    </card>
+    <card>
+      <name>Ride Down</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Demigod Chant</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>2GWU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control attacks or you play a land, choose one—
+• You gain 2 life.
+• Untap target nonland permanent.
+• Scry 1</text>
+    </card>
+    <card>
+      <name>Madness at the Morgue</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>4BRG</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand. Madness at the Morgue deals damage equal to that creature’s power to target player and each creature that player controls.</text>
+    </card>
+    <card>
+      <name>Aspect of Kord</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>1GUR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Aspect of Kord deals 4 damage to any target. Draw two cards. Untap up to two target lands.</text>
+    </card>
+    <card>
+      <name>Sentient Sentinel</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1BGU // X</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Whenever one or more cards you own are put into exile from anywhere each turn, draw a card. This ability triggers only once each turn.
+--- 
+Add X mana in any combination of colors.</text>
+    </card>
+    <card>
+      <name>Hardships Undone</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>1WBG</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures target player controls get +2/-2 and gain trample and lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Blighted Ambition</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards. You lose 3 life.
+Proliferate (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Blasphemous Strength</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +4/+4 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Phyresis Drone</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch
+When Phyresis Drone dies, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Punisher Demon</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Punisher Demon attacks, you may have it deal damage equal to its power to target creature you control and target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Exiled Bloodmage</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Demon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Exiled Bloodmage enters the battlefield, it deals 2 damage to up to one other target creature and 2 damage to you.</text>
+    </card>
+    <card>
+      <name>Adventurer&apos;s Hatchet</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Adventurer’s Hatchet becomes attached to a creature, discard a card.
+Whenever Adventurer’s Hatchet becomes unattached from a creature, draw a card.
+Equipped creature gets +1/+1 for each card in your graveyard that you discarded this turn.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Banisher&apos;s Vault</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exile equipped creature: Exile another target creature.
+Whenever Banisher’s Vault becomes attached to a creature, return all other cards exiled by it to the battlefield under their owners’ control.
+Equip 2W</text>
+    </card>
+    <card>
+      <name>Ja&apos;Madt, Warleader</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Ja’Madt, Warleader attacks, he deals X damage to any non-player target, where X is the greatest power among attacking creatures.
+Tap three untapped creatures you control: Ja’Madt, Warleader gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Distracting Chameleon</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Distracting Chameleon must be blocked if able.
+Whenever Distracting Chameleon is dealt damage, add one mana of any color at the beginning of your next main phase.</text>
+    </card>
+    <card>
+      <name>Lieutenant of Madt</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+At the beginning of combat on your turn, create a 1/1 white Knight creature token with exalted.</text>
+    </card>
+    <card>
+      <name>Ecol Guard</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Whenever a creature you control is dealt damage, put a +1/+1 counter on Ecol Guard.</text>
+    </card>
+    <card>
+      <name>Banished Forerunner</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, menace
+Banished Forerunner attacks each turn if able.</text>
+    </card>
+    <card>
+      <name>Soul of Ezanavi</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2WUBRG // WUBRG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Avatar  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>6/6</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>WUBRG, Sacrifice Soul of Ezanavi: Return each nonland permanent to its owners hand. Each player discards their hand then draws cards equal to the greatest number of cards a player discarded this way.
+--- 
+Return each nonland permanent to its owner’s hand. Each player discards their hand then draws cards equal to the greatest number of cards a player discarded this way.</text>
+    </card>
+    <card>
+      <name>Ralixan Markets</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+You may look at the top card of your library at any time.
+At the beginning of your upkeep, you may reveal the top card of your library. If a card revealed this way shares a name with a nonland card in your graveyard, draw a card.</text>
+    </card>
+    <card>
+      <name>Tesaren Abberation</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tesaren Abberation costs {2} less to cast if a card you own was put into exile this turn.
+Flying</text>
+    </card>
+    <card>
+      <name>Follower of Ja&apos;Madt</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, menace
+Echo 1RR (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+    </card>
+    <card>
+      <name>Polyglot Elf</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Polyglot Elf enters the battlefield, create a 2/2 green Wolf creature token.</text>
+    </card>
+    <card>
+      <name>Furyborn</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR // R</manacost>
+        <cmc>5</cmc>
+        <type>Instant // Instant - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 and gains trample and double strike until end of turn.
+--- 
+Target creature gains first strike and haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Alien Objective</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target activated or triggered ability. Destroy the source of that ability if it’s noncreature nonland permanent.</text>
+    </card>
+    <card>
+      <name>Invasion Behemoth</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Phyrexian Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+Invasion Behemoth can’t be blocked by more than one creature as long as a land entered the battlefield under your control this turn.</text>
+    </card>
+    <card>
+      <name>Darksteel Ingot</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Phyrexian Lacerator</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Phyrexian Construct Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Phyrexian Lacerator enters the battlefield with two -1/-1 counters.
+Whenever Phyrexian Lacerator attacks, you may remove a -1/-1 counter from it. If you do, it gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Destiny Stone</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Destiny Stone enters the battlefield, exile all planeswalkers.
+Players can’t cast planeswalker spells.
+{6}, Sacrifice Destiny Stone: Destroy all nonland permanents</text>
+    </card>
+    <card>
+      <name>Weaponized Myr</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Phyrexian Myr </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Weaponized Myr enters the battlefield with five +1/+1 counters.
+At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized Myr. If you do, create a 1/1 colorless Myr artifact creature token.</text>
+    </card>
+    <card>
+      <name>Brambled Slope</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Brambled Slope enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Canopy Enclave</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Canopy Enclave enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Crumbling Crucible</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Crumbling Crucible enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Frozen Waterfall</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Frozen Waterfall enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Phyrexian Citadel</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Phyrexian Citadel enters the battlefield tapped.
+{T}: Add {C}. You may sacrifice Phyrexian Citadel. If you do, search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Sunken Mire</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Sunken Mire enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Keled, Witness of the End</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Keled </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Exile the top card of your library. You may play that card this turn.
+[-1]: Put a loyalty counter on Keled for each basic land type among lands you control.
+[-7]: Return each creature card with mana value 2 or less from your graveyard to the battlefield. Creatures you control gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Party Reinforcement</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each of up to two target creatures. Then untap each creature you control that has one or more +1/+1 counters.</text>
+    </card>
+    <card>
+      <name>Oilvein Elemental</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Elemental Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Elesh Norn of the Machine</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Phyrexian Praetor </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Other creatures you control get +1/+1.
+Creatures you don’t control get -1/-1.</text>
+    </card>
+    <card>
+      <name>Norn Sorceror</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Norn Sorceror attacks, tap up to one target creature defending player controls.</text>
+    </card>
+    <card>
+      <name>Norn Tinkerer</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Norn’s Tinkerer dies, you may sacrifice another permanent. If you do, create two 1/1 colorless Myr artifact creature tokens.</text>
+    </card>
+    <card>
+      <name>Soul Defiler</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Phyrexian Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters the battlefield under your control, you gain 1 life.
+3H/W, {T}: Create a 1/1 colorless Myr artifact creature token.</text>
+    </card>
+    <card>
+      <name>Gitaxian Auger</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+When Gitaxian Auger enters the battlefield draw a card.</text>
+    </card>
+    <card>
+      <name>Gitaxian Deceiver</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+{T}: Draw a card then discard a card.
+Whenever one or more creatures you don’t control become tapped, you may untap Gitaxian Deceiver.</text>
+    </card>
+    <card>
+      <name>Mindflay Amalgam</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither
+When Mindflay Amalgam enters the battlefield or attacks, exile the top three cards of each opponent’s library.
+Mindflay Amalgam has all activated abilities of creature cards exiled with it.</text>
+    </card>
+    <card>
+      <name>Praetor&apos;s Scheme</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target creature spell.
+Proliferate (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Sev Gitaxius</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Phyrexian Praetor </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither
+Whenever you draw a card, tap target creature.
+Whenever a creature you don’t control becomes tapped, it doesn’t untap during its controller’s next untap step.</text>
+    </card>
+    <card>
+      <name>Cavern Thane</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever a creature an opponent controls is dealt damage by a source other than Cavern Thane, Cavern Thane deals 1 damage to that creature.</text>
+    </card>
+    <card>
+      <name>Ruinator Thane</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a permanent: Ruinator Thane gains menace until end of turn.
+When Ruinator Thane dies, sacrifice a permanent.
+Whenever a creature dealt damage by Ruinator Thane this turn dies, that creature’s controller sacrifices a nonland permanent.</text>
+    </card>
+    <card>
+      <name>Septic Yeoman</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Shade </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever Septic Yeoman attacks, create a 1/1 black Horror creature token with wither that is tapped and attacking.</text>
+    </card>
+    <card>
+      <name>Sheoldred, Blighted Thane</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Phyrexian Praetor </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever a creature you control attacks, the defending player loses 1 life.
+At the beginning of your end step, each opponent who lost no life this turn sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>Siege Ichorknight</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB // 4BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Knight  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>5/5</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Siege Ichorknight can’t attack or block unless a creature died this turn.
+--- 
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Chittering Plateling</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Barbarian </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+3R, {T}: Chittering Plateling deals 2 damage to each player.</text>
+    </card>
+    <card>
+      <name>Urabrask Mage</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+{T}: Urabrask Mage deals 1 damage to any nonplayer target.</text>
+    </card>
+    <card>
+      <name>Urabrask, the Devourer</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RRR // R</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Phyrexian Praetor  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>6/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Trample, haste
+Whenever Urabrask attacks, Urabrask deals damage equal to its power to up to one target creature.
+--- 
+Create a 3/1 red Elemental creature token with trample and haste. Sacrifice that token at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Korborat Thraxis</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Phyrexian Praetor </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Lands you control have “{T}: Add CC.”
+Lands you don’t control lose all abilities except they have “{T}: Add {C}.”</text>
+    </card>
+    <card>
+      <name>Sentinels of Korborat</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Phyrexian Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Consult the Records</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 2, then draw two cards.
+Proliferate (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Tears of your Enemies</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a -1/-1 counter on each creature you don’t control. Tap those creatures.</text>
+    </card>
+    <card>
+      <name>Lich Ravager</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Lich Ravager assign its combat damage as though it weren’t blocked.</text>
+    </card>
+    <card>
+      <name>Knight of Fallen Ralixa</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W // 5W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>1/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+--- 
+Until end of turn, target creature gets +1/+1 for each other card you own in exile and gains double strike.</text>
+    </card>
+    <card>
+      <name>Madt&apos;s Summons</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW // 3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery // Instant - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 2/2 white Knight creature tokens with vigilance.
+--- 
+Exile target creature you control, then return it to the battlefield. You may attach any number of Auras and Equipment you control to it.</text>
+    </card>
+    <card>
+      <name>Implant Memories</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U // 4U</manacost>
+        <cmc>2</cmc>
+        <type>Instant // Instant - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top three cards of target player’s library. Put any number of them on the bottom of that player’s library. Put the rest back on top in any order.
+--- 
+Look at the top three cards of your library. Put any number of them on the bottom of your library. Put the rest back on top in any order.</text>
+    </card>
+    <card>
+      <name>Unwinding Paths</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>7UUU // 0</manacost>
+        <cmc>10</cmc>
+        <type>Instant // Sorcery - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top five cards of your library. Until end of turn, you may cast instants and/or sorcery cards exiled this way without paying their mana costs.
+--- 
+Each player shuffles all cards they own in exile into their libraries.</text>
+    </card>
+    <card>
+      <name>Ichorflesh Mob</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B // 2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Horror  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+--- 
+Put two -1/-1 counters on target creature.</text>
+    </card>
+    <card>
+      <name>Thane&apos;s Herald</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B // 1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Zombie  // Sorcery - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Thane’s Herald dies, mill two cards. (Put the top two cards of your library into your graveyard.)
+--- 
+Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Burning Hands</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR // 5RR</manacost>
+        <cmc>4</cmc>
+        <type>Instant // Instant - Aftermath </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Burning Hands deals 2 damage to target creature and 2 damage to another target creature.
+--- 
+Burning Heart deals 2 damage to target creature and 2 damage to another target creature.</text>
+    </card>
+    <card>
+      <name>Jagged Magmoid</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R // R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Jagged Magmoid dies, it deals 2 damage to each opponent.
+--- 
+Jagged Spike deals 3 damage to any nonplayer target.</text>
+    </card>
+    <card>
+      <name>Hideout</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G // XGGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery // Sorcery - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top card of your library. If it is a land card, put it onto the battlefield tapped. Otherwise, put it into your hand.
+--- 
+Reveal the top X cards of your library. Put all land cards from among them onto the battlefield tapped and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Sylvan Conviction</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G // 1G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery // Sorcery - Aftermath </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Remove any number of +1/+1 counters from among creatures you control. Then put that many +1/+1 counter on target creature you control.
+Draw a card.
+--- 
+Put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Tesaren Avenger</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>WU // 4WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard  // Instant - Aftermath </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flash
+When Tesaren Avenger enters the battlefield, scry 2.
+--- 
+Scry 4 then draw a card.</text>
+    </card>
+    <card>
+      <name>Priest of Urabrask</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Priest of Urabrask enters the battlefield, add RRR.</text>
+    </card>
+    <card>
+      <name>Magma Spray</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Koth, Hatred Unbound</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Koth </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[0]: Koth deals 2 damage to target creature. When a creature dealt damage this way dies this turn, put two loyalty counters on Koth.
+[-3]: Create a 4/4 red Elemental creature token.
+[-7]: You get an emblem with “Whenever you cast a spell, this emblem deals damage equal to that spell’s mana value to up to one target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Ichordash Horror</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you pay life, Ichordash Horror gets +1/+0 until end of turn.
+You may have Ichordash Horror assign its combat damage as though it weren’t blocked.</text>
+    </card>
+    <card>
+      <name>Ichorclaw Dragon</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4H/RH/R</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Phyrexian Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+1H/R: Ichorclaw Dragon gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Biotic Dragon Engine</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Phyrexian Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Biotic Dragon Engine deals combat damage to a player, it deals that much damage to itself.</text>
+    </card>
+    <card>
+      <name>Ei&apos;tal Crawler</name>
+      <set rarity="uncommon">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Phyrexian Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever a creature you don’t control dies, put a -1/-1 counter on Ei’tal Crawler.
+1GG, Remove three -1/-1 counters from Ei’tal Crawler: Put three +1/+1 counters on target creature you control.</text>
+    </card>
+    <card>
+      <name>Doubling Season</name>
+      <set rarity="rare">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.</text>
+    </card>
+    <card>
+      <name>Dalwood Meddler</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Dalwood Meddler enters the battlefield, put a +1/+1 counter target creature.</text>
+    </card>
+    <card>
+      <name>Tesaren Sentry</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}: Tesaren Sentry gets +1/-1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Orthodoxy Cerebrate</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3H/WH/W</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Fume Spitter</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Phyrexian Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Darksteel Ravager</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Darksteel Ravager has indestructible as long as its attacking.</text>
+    </card>
+    <card>
+      <name>Lone Squire</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever Lone Squire attacks alone, it gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Armored Front</name>
+      <set rarity="common">EZA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains indestructible until end of turn. Create a Sword token. Then attach any number of Equipment you control to that creature. (Its an Equipment artifact token with “Equipped creature gets +1/+1.” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Magnus, the Soul Stealer</name>
+      <set rarity="mythic">EZA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Magnus </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Each opponent exiles a card from their hand.
+[-3]: Exile target creature or planeswalker.
+[-7]: Put all creature and planeswalker cards exiled with Magnus onto the battlefield under your control.</text>
+    </card>

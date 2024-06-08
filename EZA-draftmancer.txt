@@ -1,0 +1,3115 @@
+[CustomCards]
+	[    {
+	        "name": "Ghostblade Spirit",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ghostblade Spirit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Landsurge",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Landsurge.jpg"
+	        },
+	        "printed names": {
+	            "en": "Landsurge"
+	        },
+	        "back": {
+	            "name": "Landchurn",
+	            "printed_names": {
+	                "en": "Landchurn"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Landchurn.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Sunquash Colossus",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sunquash Colossus.jpg"
+	        },
+	        "printed names": {
+	            "en": "Sunquash Colossus"
+	        },
+	        "back": {
+	            "name": "Sunbolts",
+	            "printed_names": {
+	                "en": "Sunbolts"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sunbolts.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Gitaxian Engine",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Artifact Creature — Phyrexian Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Gitaxian Engine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blazing Abomination",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Phyrexian Elemental Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Blazing Abomination.jpg"
+	        }
+	    },
+	    {
+	        "name": "Malfunction Myr",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Phyrexian Myr ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Malfunction Myr.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragonflame Spitter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dragonflame Spitter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aetherbond Titan",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Phyrexian Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Aetherbond Titan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Inquisitor's Scorn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Inquisitor's Scorn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Descry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Descry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Phyretic Templar",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Phyrexian Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Phyretic Templar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Alloy Knight",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Construct Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Alloy Knight.jpg"
+	        },
+	        "printed names": {
+	            "en": "Alloy Knight"
+	        },
+	        "back": {
+	            "name": "Reconstruct",
+	            "printed_names": {
+	                "en": "Reconstruct"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Reconstruct.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Gather Allies",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Gather Allies.jpg"
+	        },
+	        "printed names": {
+	            "en": "Gather Allies"
+	        },
+	        "back": {
+	            "name": "Regroup",
+	            "printed_names": {
+	                "en": "Regroup"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Regroup.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Darkworld Nuisance",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Phyrexian Imp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Darkworld Nuisance.jpg"
+	        },
+	        "printed names": {
+	            "en": "Darkworld Nuisance"
+	        },
+	        "back": {
+	            "name": "Pester",
+	            "printed_names": {
+	                "en": "Pester"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Pester.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Mystic Polymorph",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Mystic Polymorph.jpg"
+	        },
+	        "printed names": {
+	            "en": "Mystic Polymorph"
+	        },
+	        "back": {
+	            "name": "I am Legion",
+	            "printed_names": {
+	                "en": "I am Legion"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/I am Legion.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Living Probe",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Phyrexian Bird Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Living Probe.jpg"
+	        }
+	    },
+	    {
+	        "name": "Smog Reaper",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Smog Reaper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Writhing Nightmare",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Writhing Nightmare.jpg"
+	        }
+	    },
+	    {
+	        "name": "Modified Thopter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Artifact Creature — Thopter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Modified Thopter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ralixan Cleric",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ralixan Cleric.jpg"
+	        }
+	    },
+	    {
+	        "name": "Order of Norn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{H/W}{H/W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Order of Norn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warper's Amulet",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Warper's Amulet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Path of War",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Path of War.jpg"
+	        }
+	    },
+	    {
+	        "name": "Noble Griffin",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Griffin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Noble Griffin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skyway Hellkite",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Skyway Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scroll Keeper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Scroll Keeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Adaptive Blade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Adaptive Blade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Axemad Monger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Axemad Monger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Menrylia's Chosen",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Menrylia's Chosen.jpg"
+	        },
+	        "printed names": {
+	            "en": "Menrylia's Chosen"
+	        },
+	        "back": {
+	            "name": "Chosen One",
+	            "printed_names": {
+	                "en": "Chosen One"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Chosen One.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Might of the Carnivore",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Might of the Carnivore.jpg"
+	        }
+	    },
+	    {
+	        "name": "Steel Wall",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Steel Wall.jpg"
+	        }
+	    },
+	    {
+	        "name": "Roilsoul",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{G}{G}",
+	        "type": "Creature — Giant Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Roilsoul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Imperial Elf",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Imperial Elf.jpg"
+	        },
+	        "printed names": {
+	            "en": "Imperial Elf"
+	        },
+	        "back": {
+	            "name": "Imperial Guile",
+	            "printed_names": {
+	                "en": "Imperial Guile"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Imperial Guile.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Goblin Firecaller",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Goblin Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Goblin Firecaller.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sylvan Gift",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sylvan Gift.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overworld Ghast",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Spirit Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Overworld Ghast.jpg"
+	        }
+	    },
+	    {
+	        "name": "Enter the Den",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Enter the Den.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scattered Lightning",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Scattered Lightning.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ezanavi Apocalypse",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ezanavi Apocalypse.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pathway Messengers",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Pathway Messengers.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soulrend",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Soulrend.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voice of Gix",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Phyrexian Human Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Voice of Gix.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dalwood Protector",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dalwood Protector.jpg"
+	        },
+	        "printed names": {
+	            "en": "Dalwood Protector"
+	        },
+	        "back": {
+	            "name": "Innervate",
+	            "printed_names": {
+	                "en": "Innervate"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Innervate.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Thenebras",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}{B}{B}{B}",
+	        "type": "Legendary Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Thenebras.jpg"
+	        }
+	    },
+	    {
+	        "name": "Recycle Machinery",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Recycle Machinery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blade of the Survivor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Blade of the Survivor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overworld Sage",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Overworld Sage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreadculler Headhunter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dreadculler Headhunter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Silent Entity",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Phyrexian Spider Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Silent Entity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Souleater Machine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}H",
+	        "type": "Artifact Creature — Phyrexian Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Souleater Machine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overworld Palace",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Overworld Palace.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ralixan Oasis",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ralixan Oasis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tangled Ruins",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tangled Ruins.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nimul Mucklands",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Nimul Mucklands.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreadculler Lair",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dreadculler Lair.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lunar Gateway",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Lunar Gateway.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thane's Knight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Phyrexian Horror Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Thane's Knight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brink",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Brink.jpg"
+	        },
+	        "printed names": {
+	            "en": "Brink"
+	        },
+	        "back": {
+	            "name": "Break",
+	            "printed_names": {
+	                "en": "Break"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Break.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Sowrazer Stag",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sowrazer Stag.jpg"
+	        }
+	    },
+	    {
+	        "name": "Illusory Phenomenon",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Illusory Phenomenon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Adapted Warhorse",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Artifact Creature — Phyrexian Horse Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Adapted Warhorse.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pthisus Contamination",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Pthisus Contamination.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thran Probe",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact Creature — Phyrexian Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Thran Probe.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ei'tal Horror",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Artifact Creature — Phyrexian Beast Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ei'tal Horror.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hidden Armory",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Hidden Armory.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hex Mist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Hex Mist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Physical Restraint",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Physical Restraint.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ei'tal Betrayer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ei'tal Betrayer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Punishing Flame",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Punishing Flame.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scion of the Lotus",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Scion of the Lotus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bladechild",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Bladechild.jpg"
+	        }
+	    },
+	    {
+	        "name": "Grim Unburial",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Grim Unburial.jpg"
+	        },
+	        "printed names": {
+	            "en": "Grim Unburial"
+	        },
+	        "back": {
+	            "name": "Grim Reprisal",
+	            "printed_names": {
+	                "en": "Grim Reprisal"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Grim Reprisal.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Atro, Eternities' Guard",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{U}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Atro, Eternities' Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Myr Servant",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact Creature — Phyrexian Myr ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Myr Servant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ei'tal Predator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Phyrexian Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ei'tal Predator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consuming Curse",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}{B}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Consuming Curse.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dauntless Rage",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dauntless Rage.jpg"
+	        },
+	        "printed names": {
+	            "en": "Dauntless Rage"
+	        },
+	        "back": {
+	            "name": "Rageflame",
+	            "printed_names": {
+	                "en": "Rageflame"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Rageflame.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Talon Mantra",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Talon Mantra.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fairglade Elf",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fairglade Elf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Amphin Alchemist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Salamander Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Amphin Alchemist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tesaren Transfiguration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tesaren Transfiguration.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tranquil Gardens",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tranquil Gardens.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mana Gauntlet",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{X}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Mana Gauntlet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreg Mob",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Phyrexian Lizard Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dreg Mob.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tesaren Wings",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tesaren Wings.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scion of Wind",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Scion of Wind.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blunt Diplomacy",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Blunt Diplomacy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Corruptive Symbiote",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Corruptive Symbiote.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blood Alchemist",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Blood Alchemist.jpg"
+	        },
+	        "printed names": {
+	            "en": "Blood Alchemist"
+	        },
+	        "back": {
+	            "name": "Bloodlust",
+	            "printed_names": {
+	                "en": "Bloodlust"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Bloodlust.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Necrogen Outbreak",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Necrogen Outbreak.jpg"
+	        }
+	    },
+	    {
+	        "name": "Smite the Monstrous",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Smite the Monstrous.jpg"
+	        }
+	    },
+	    {
+	        "name": "Duskbane Angel",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Duskbane Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Disciple of Madt",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Disciple of Madt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Servants of Senzu",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Phyrexian Elf Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Servants of Senzu.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lost Everything",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Lost Everything.jpg"
+	        }
+	    },
+	    {
+	        "name": "Proven Worthy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Proven Worthy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blisterflame",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Blisterflame.jpg"
+	        }
+	    },
+	    {
+	        "name": "Torment Engine",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Torment Engine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcana Hunter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}",
+	        "type": "Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Arcana Hunter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ghostfire Hellhound",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Hound ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ghostfire Hellhound.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madt Sword",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Madt Sword.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tesaren Transmuter",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Shapeshifter Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tesaren Transmuter.jpg"
+	        },
+	        "printed names": {
+	            "en": "Tesaren Transmuter"
+	        },
+	        "back": {
+	            "name": "Transmutate",
+	            "printed_names": {
+	                "en": "Transmutate"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Transmutate.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Tezzeret, Bolas's Seeker",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Legendary Planeswalker — Tezzeret ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tezzeret, Bolas's Seeker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heroes' Reunion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Heroes' Reunion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urabrask Fodder",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Phyrexian Goblin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Urabrask Fodder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hornback Goliath",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Hornback Goliath.jpg"
+	        }
+	    },
+	    {
+	        "name": "Infiltrator's Cloak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Infiltrator's Cloak.jpg"
+	        }
+	    },
+	    {
+	        "name": "Delayed Imports",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Delayed Imports.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unfettered Virtue",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Unfettered Virtue.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fiery Encore",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fiery Encore.jpg"
+	        }
+	    },
+	    {
+	        "name": "Call from Beyond",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Call from Beyond.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brass Hydra",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Artifact Creature — Phyrexian Hydra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Brass Hydra.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreadculler Agent",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dreadculler Agent.jpg"
+	        }
+	    },
+	    {
+	        "name": "Final Triumph",
+	        "mana_cost": "{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Final Triumph.jpg"
+	        },
+	        "printed names": {
+	            "en": "Final Triumph"
+	        },
+	        "back": {
+	            "name": "Last Helix",
+	            "printed_names": {
+	                "en": "Last Helix"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Last Helix.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Glacial Gloombeast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Phyrexian Illusion Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Glacial Gloombeast.jpg"
+	        }
+	    },
+	    {
+	        "name": "Glistening Frost",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Glistening Frost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Oilfire Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Artifact Creature — Phyrexian Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Oilfire Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aether Bonds",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Aether Bonds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ichorslick Blade",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ichorslick Blade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blighted Shadow",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Phyrexian Shade ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Blighted Shadow.jpg"
+	        }
+	    },
+	    {
+	        "name": "Corporeal Injury",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Corporeal Injury.jpg"
+	        }
+	    },
+	    {
+	        "name": "Silent Stab",
+	        "rarity": "common",
+	        "mana_cost": "{H/B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Silent Stab.jpg"
+	        }
+	    },
+	    {
+	        "name": "Captivating Duelist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Captivating Duelist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Artifice Shell",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Artifice Shell.jpg"
+	        },
+	        "printed names": {
+	            "en": "Artifice Shell"
+	        },
+	        "back": {
+	            "name": "Splicer's Gambit",
+	            "printed_names": {
+	                "en": "Splicer's Gambit"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Splicer's Gambit.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Ashen Horror",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Phyrexian Elemental Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ashen Horror.jpg"
+	        }
+	    },
+	    {
+	        "name": "Senzu the Madman",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Legendary Creature — Phyrexian Elf Rebel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Senzu the Madman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gut Shot",
+	        "rarity": "common",
+	        "mana_cost": "{H/R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Gut Shot.jpg"
+	        }
+	    },
+	    {
+	        "name": "Glistener Pawns",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Phyrexian Horror Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Glistener Pawns.jpg"
+	        }
+	    },
+	    {
+	        "name": "Senzu's Doomspeaker",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Phyrexian Elf Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Senzu's Doomspeaker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skyrune",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Skyrune.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consumer of Worlds",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Phyrexian Beast Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Consumer of Worlds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urabrask's Emissary",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Phyrexian Elemental Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Urabrask's Emissary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lingering Reality",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Lingering Reality.jpg"
+	        }
+	    },
+	    {
+	        "name": "Orthodoxy Activation",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Orthodoxy Activation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gitaxian Probe",
+	        "rarity": "common",
+	        "mana_cost": "{H/U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Gitaxian Probe.jpg"
+	        }
+	    },
+	    {
+	        "name": "Machine's Embrace",
+	        "rarity": "common",
+	        "mana_cost": "{H/W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Machine's Embrace.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vault of the Ancients",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Vault of the Ancients.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mutagenic Growth",
+	        "rarity": "common",
+	        "mana_cost": "{H/G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Mutagenic Growth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fleshrage",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fleshrage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darkworld Equinox",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Darkworld Equinox.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brutal Cataclysm",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Brutal Cataclysm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madt Avenged",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Madt Avenged.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodmist Glider",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Bloodmist Glider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wreckage Monger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Creature — Phyrexian Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Wreckage Monger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Battlewise Enigma",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Battlewise Enigma.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tesaren Protector",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tesaren Protector.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brightmind Trickster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Brightmind Trickster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aftermath Hellkite",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Aftermath Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Druid Den",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Druid Den.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warpers' Lab",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Warpers' Lab.jpg"
+	        }
+	    },
+	    {
+	        "name": "Radiant Outskirts",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Radiant Outskirts.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madt Barracks",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Madt Barracks.jpg"
+	        }
+	    },
+	    {
+	        "name": "Senzu's Hideout",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Senzu's Hideout.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fatality Guise",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fatality Guise.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rift Storm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{H/R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Rift Storm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Walking Brambles",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Walking Brambles.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sylvan Prosperity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sylvan Prosperity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Power from Practice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Power from Practice.jpg"
+	        }
+	    },
+	    {
+	        "name": "World Fracture",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/World Fracture.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcane Recurve",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Arcane Recurve.jpg"
+	        },
+	        "printed names": {
+	            "en": "Arcane Recurve"
+	        },
+	        "back": {
+	            "name": "Arcane Reflux",
+	            "printed_names": {
+	                "en": "Arcane Reflux"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Arcane Reflux.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Dalwood Titan",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dalwood Titan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Whispering Shaman",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Whispering Shaman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plane's Captive",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Plane's Captive.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fire with Fire",
+	        "mana_cost": "{X}{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fire with Fire.jpg"
+	        },
+	        "printed names": {
+	            "en": "Fire with Fire"
+	        },
+	        "back": {
+	            "name": "More Fire",
+	            "printed_names": {
+	                "en": "More Fire"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/More Fire.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Chancellor of Riddles",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Sphinx ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Chancellor of Riddles.jpg"
+	        }
+	    },
+	    {
+	        "name": "Holy Might",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Holy Might.jpg"
+	        },
+	        "printed names": {
+	            "en": "Holy Might"
+	        },
+	        "back": {
+	            "name": "Holy Requiem",
+	            "printed_names": {
+	                "en": "Holy Requiem"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Holy Requiem.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Skycoil Wurm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{H/G}{H/G}",
+	        "type": "Artifact Creature — Phyrexian Wurm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Skycoil Wurm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overworld Cloak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Overworld Cloak.jpg"
+	        }
+	    },
+	    {
+	        "name": "Celestial Vengeance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Celestial Vengeance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fall",
+	        "mana_cost": "{3}{W}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fall.jpg"
+	        },
+	        "printed names": {
+	            "en": "Fall"
+	        },
+	        "back": {
+	            "name": "Grace",
+	            "printed_names": {
+	                "en": "Grace"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Grace.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Elusive Reaver",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Elusive Reaver.jpg"
+	        },
+	        "printed names": {
+	            "en": "Elusive Reaver"
+	        },
+	        "back": {
+	            "name": "Elusive Flight",
+	            "printed_names": {
+	                "en": "Elusive Flight"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Elusive Flight.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Submerged Despair",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{H/U}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Submerged Despair.jpg"
+	        }
+	    },
+	    {
+	        "name": "Assured Destruction",
+	        "mana_cost": "{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Assured Destruction.jpg"
+	        },
+	        "printed names": {
+	            "en": "Assured Destruction"
+	        },
+	        "back": {
+	            "name": "Destruct",
+	            "printed_names": {
+	                "en": "Destruct"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Destruct.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Menrylia, Sylvan Heir",
+	        "mana_cost": "{3}{G}{W}",
+	        "type": "Legendary Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Menrylia, Sylvan Heir.jpg"
+	        },
+	        "printed names": {
+	            "en": "Menrylia, Sylvan Heir"
+	        },
+	        "back": {
+	            "name": "Resonation",
+	            "printed_names": {
+	                "en": "Resonation"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Resonation.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Elite Bargains",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Elite Bargains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warp Bolt",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Warp Bolt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ride Down",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ride Down.jpg"
+	        }
+	    },
+	    {
+	        "name": "Demigod Chant",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{W}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Demigod Chant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madness at the Morgue",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Madness at the Morgue.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aspect of Kord",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Aspect of Kord.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sentient Sentinel",
+	        "mana_cost": "{1}{B}{G}{U}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sentient Sentinel.jpg"
+	        },
+	        "printed names": {
+	            "en": "Sentient Sentinel"
+	        },
+	        "back": {
+	            "name": "Mana Unbound",
+	            "printed_names": {
+	                "en": "Mana Unbound"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Mana Unbound.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Hardships Undone",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Hardships Undone.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blighted Ambition",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Blighted Ambition.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blasphemous Strength",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Blasphemous Strength.jpg"
+	        }
+	    },
+	    {
+	        "name": "Phyresis Drone",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Phyresis Drone.jpg"
+	        }
+	    },
+	    {
+	        "name": "Punisher Demon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Creature — Phyrexian Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Punisher Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Exiled Bloodmage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Phyrexian Demon Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Exiled Bloodmage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Adventurer's Hatchet",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Adventurer's Hatchet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Banisher's Vault",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Banisher's Vault.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ja'Madt, Warleader",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Legendary Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ja'Madt, Warleader.jpg"
+	        }
+	    },
+	    {
+	        "name": "Distracting Chameleon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Lizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Distracting Chameleon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lieutenant of Madt",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Lieutenant of Madt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ecol Guard",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ecol Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Banished Forerunner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Banished Forerunner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soul of Ezanavi",
+	        "mana_cost": "{2}{W}{U}{B}{R}{G}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Soul of Ezanavi.jpg"
+	        },
+	        "printed names": {
+	            "en": "Soul of Ezanavi"
+	        },
+	        "back": {
+	            "name": "Reckon",
+	            "printed_names": {
+	                "en": "Reckon"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Reckon.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Ralixan Markets",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ralixan Markets.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tesaren Abberation",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Bird Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tesaren Abberation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Follower of Ja'Madt",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Follower of Ja'Madt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Polyglot Elf",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Polyglot Elf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Furyborn",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Furyborn.jpg"
+	        },
+	        "printed names": {
+	            "en": "Furyborn"
+	        },
+	        "back": {
+	            "name": "Fury",
+	            "printed_names": {
+	                "en": "Fury"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fury.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Alien Objective",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Alien Objective.jpg"
+	        }
+	    },
+	    {
+	        "name": "Invasion Behemoth",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Artifact Creature — Phyrexian Beast Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Invasion Behemoth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darksteel Ingot",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Darksteel Ingot.jpg"
+	        }
+	    },
+	    {
+	        "name": "Phyrexian Lacerator",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Artifact Creature — Phyrexian Construct Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Phyrexian Lacerator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Destiny Stone",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Destiny Stone.jpg"
+	        }
+	    },
+	    {
+	        "name": "Weaponized Myr",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Phyrexian Myr ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Weaponized Myr.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brambled Slope",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Brambled Slope.jpg"
+	        }
+	    },
+	    {
+	        "name": "Canopy Enclave",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Canopy Enclave.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crumbling Crucible",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Crumbling Crucible.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frozen Waterfall",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Frozen Waterfall.jpg"
+	        }
+	    },
+	    {
+	        "name": "Phyrexian Citadel",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Artifact Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Phyrexian Citadel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sunken Mire",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sunken Mire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Keled, Witness of the End",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Legendary Planeswalker — Keled ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Keled, Witness of the End.jpg"
+	        }
+	    },
+	    {
+	        "name": "Party Reinforcement",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Party Reinforcement.jpg"
+	        }
+	    },
+	    {
+	        "name": "Oilvein Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Phyrexian Elemental Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Oilvein Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Elesh Norn of the Machine",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Legendary Creature — Phyrexian Praetor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Elesh Norn of the Machine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Norn Sorceror",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Phyrexian Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Norn Sorceror.jpg"
+	        }
+	    },
+	    {
+	        "name": "Norn Tinkerer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Phyrexian Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Norn Tinkerer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soul Defiler",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Phyrexian Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Soul Defiler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gitaxian Auger",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Phyrexian Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Gitaxian Auger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gitaxian Deceiver",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Phyrexian Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Gitaxian Deceiver.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mindflay Amalgam",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Mindflay Amalgam.jpg"
+	        }
+	    },
+	    {
+	        "name": "Praetor's Scheme",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Praetor's Scheme.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sev Gitaxius",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Legendary Creature — Phyrexian Praetor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sev Gitaxius.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cavern Thane",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Cavern Thane.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ruinator Thane",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Phyrexian Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ruinator Thane.jpg"
+	        }
+	    },
+	    {
+	        "name": "Septic Yeoman",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Phyrexian Shade ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Septic Yeoman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sheoldred, Blighted Thane",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Legendary Creature — Phyrexian Praetor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sheoldred, Blighted Thane.jpg"
+	        }
+	    },
+	    {
+	        "name": "Siege Ichorknight",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Phyrexian Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Siege Ichorknight.jpg"
+	        },
+	        "printed names": {
+	            "en": "Siege Ichorknight"
+	        },
+	        "back": {
+	            "name": "Eviscerated",
+	            "printed_names": {
+	                "en": "Eviscerated"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Eviscerated.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Chittering Plateling",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Phyrexian Barbarian ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Chittering Plateling.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urabrask Mage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Phyrexian Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Urabrask Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urabrask, the Devourer",
+	        "mana_cost": "{2}{R}{R}{R}",
+	        "type": "Legendary Creature — Phyrexian Praetor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Urabrask, the Devourer.jpg"
+	        },
+	        "printed names": {
+	            "en": "Urabrask, the Devourer"
+	        },
+	        "back": {
+	            "name": "Elderflame",
+	            "printed_names": {
+	                "en": "Elderflame"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Elderflame.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Korborat Thraxis",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{G}{G}",
+	        "type": "Legendary Creature — Phyrexian Praetor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Korborat Thraxis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sentinels of Korborat",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Phyrexian Beast Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sentinels of Korborat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consult the Records",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Consult the Records.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tears of your Enemies",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tears of your Enemies.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lich Ravager",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Phyrexian Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Lich Ravager.jpg"
+	        }
+	    },
+	    {
+	        "name": "Knight of Fallen Ralixa",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Knight of Fallen Ralixa.jpg"
+	        },
+	        "printed names": {
+	            "en": "Knight of Fallen Ralixa"
+	        },
+	        "back": {
+	            "name": "Fallen's Scorn",
+	            "printed_names": {
+	                "en": "Fallen's Scorn"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fallen's Scorn.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Madt's Summons",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Madt's Summons.jpg"
+	        },
+	        "printed names": {
+	            "en": "Madt's Summons"
+	        },
+	        "back": {
+	            "name": "Madt's Escape",
+	            "printed_names": {
+	                "en": "Madt's Escape"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Madt's Escape.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Implant Memories",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Implant Memories.jpg"
+	        },
+	        "printed names": {
+	            "en": "Implant Memories"
+	        },
+	        "back": {
+	            "name": "False Memories",
+	            "printed_names": {
+	                "en": "False Memories"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/False Memories.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Unwinding Paths",
+	        "mana_cost": "{7}{U}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Unwinding Paths.jpg"
+	        },
+	        "printed names": {
+	            "en": "Unwinding Paths"
+	        },
+	        "back": {
+	            "name": "Paths Unwound",
+	            "printed_names": {
+	                "en": "Paths Unwound"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Paths Unwound.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Ichorflesh Mob",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ichorflesh Mob.jpg"
+	        },
+	        "printed names": {
+	            "en": "Ichorflesh Mob"
+	        },
+	        "back": {
+	            "name": "Ichor Burst",
+	            "printed_names": {
+	                "en": "Ichor Burst"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ichor Burst.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Thane's Herald",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Phyrexian Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Thane's Herald.jpg"
+	        },
+	        "printed names": {
+	            "en": "Thane's Herald"
+	        },
+	        "back": {
+	            "name": "Thane's Arrival",
+	            "printed_names": {
+	                "en": "Thane's Arrival"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Thane's Arrival.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Burning Hands",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Burning Hands.jpg"
+	        },
+	        "printed names": {
+	            "en": "Burning Hands"
+	        },
+	        "back": {
+	            "name": "Burning Heart",
+	            "printed_names": {
+	                "en": "Burning Heart"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Burning Heart.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Jagged Magmoid",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Jagged Magmoid.jpg"
+	        },
+	        "printed names": {
+	            "en": "Jagged Magmoid"
+	        },
+	        "back": {
+	            "name": "Jagged Spike",
+	            "printed_names": {
+	                "en": "Jagged Spike"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Jagged Spike.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Hideout",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Hideout.jpg"
+	        },
+	        "printed names": {
+	            "en": "Hideout"
+	        },
+	        "back": {
+	            "name": "Discovery",
+	            "printed_names": {
+	                "en": "Discovery"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Discovery.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Sylvan Conviction",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sylvan Conviction.jpg"
+	        },
+	        "printed names": {
+	            "en": "Sylvan Conviction"
+	        },
+	        "back": {
+	            "name": "Sylvan Resolve",
+	            "printed_names": {
+	                "en": "Sylvan Resolve"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Sylvan Resolve.jpg"
+	            },
+	            "type": "Sorcery — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Tesaren Avenger",
+	        "mana_cost": "{W}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tesaren Avenger.jpg"
+	        },
+	        "printed names": {
+	            "en": "Tesaren Avenger"
+	        },
+	        "back": {
+	            "name": "Tesaren Task",
+	            "printed_names": {
+	                "en": "Tesaren Task"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tesaren Task.jpg"
+	            },
+	            "type": "Instant — Aftermath "
+	        }
+	    },
+	    {
+	        "name": "Priest of Urabrask",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Phyrexian Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Priest of Urabrask.jpg"
+	        }
+	    },
+	    {
+	        "name": "Magma Spray",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Magma Spray.jpg"
+	        }
+	    },
+	    {
+	        "name": "Koth, Hatred Unbound",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Legendary Planeswalker — Koth ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Koth, Hatred Unbound.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ichordash Horror",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ichordash Horror.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ichorclaw Dragon",
+	        "rarity": "common",
+	        "mana_cost": "{4}{H/R}{H/R}",
+	        "type": "Artifact Creature — Phyrexian Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ichorclaw Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Biotic Dragon Engine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Artifact Creature — Phyrexian Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Biotic Dragon Engine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ei'tal Crawler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Phyrexian Beast Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ei'tal Crawler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Doubling Season",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Doubling Season.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dalwood Meddler",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Dalwood Meddler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tesaren Sentry",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Tesaren Sentry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Orthodoxy Cerebrate",
+	        "rarity": "common",
+	        "mana_cost": "{3}{H/W}{H/W}",
+	        "type": "Artifact Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Orthodoxy Cerebrate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fume Spitter",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Phyrexian Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Fume Spitter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darksteel Ravager",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Darksteel Ravager.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lone Squire",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Lone Squire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Armored Front",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Armored Front.jpg"
+	        }
+	    },
+	    {
+	        "name": "Magnus, the Soul Stealer",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Legendary Planeswalker — Magnus ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Magnus, the Soul Stealer.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 Ghostblade Spirit
+		3 Blazing Abomination
+		3 Malfunction Myr
+		3 Mystic Polymorph
+		3 Smog Reaper
+		3 Writhing Nightmare
+		3 Warper's Amulet
+		3 Path of War
+		3 Menrylia's Chosen
+		3 Sylvan Gift
+		3 Overworld Ghast
+		3 Enter the Den
+		3 Ezanavi Apocalypse
+		3 Dalwood Protector
+		3 Blade of the Survivor
+		3 Overworld Sage
+		3 Dreadculler Headhunter
+		3 Lunar Gateway
+		3 Adapted Warhorse
+		3 Scion of the Lotus
+		3 Consuming Curse
+		3 Fairglade Elf
+		3 Mana Gauntlet
+		3 Blunt Diplomacy
+		3 Necrogen Outbreak
+		3 Disciple of Madt
+		3 Blisterflame
+		3 Torment Engine
+		3 Ghostfire Hellhound
+		3 Tesaren Transmuter
+		3 Unfettered Virtue
+		3 Call from Beyond
+		3 Senzu's Doomspeaker
+		3 Orthodoxy Activation
+		3 Darkworld Equinox
+		3 Brutal Cataclysm
+		3 Madt Avenged
+		3 Aftermath Hellkite
+		3 World Fracture
+		3 Arcane Recurve
+		3 Dalwood Titan
+		3 Whispering Shaman
+		3 Fire with Fire
+		3 Chancellor of Riddles
+		3 Fall
+		3 Warp Bolt
+		3 Demigod Chant
+		3 Madness at the Morgue
+		3 Aspect of Kord
+		3 Sentient Sentinel
+		3 Hardships Undone
+		3 Punisher Demon
+		3 Banisher's Vault
+		3 Alien Objective
+		3 Weaponized Myr
+		3 Brambled Slope
+		3 Canopy Enclave
+		3 Crumbling Crucible
+		3 Frozen Waterfall
+		3 Sunken Mire
+		3 Mindflay Amalgam
+		3 Cavern Thane
+		3 Ruinator Thane
+		3 Knight of Fallen Ralixa
+		3 Unwinding Paths
+		3 Doubling Season
+		1 Roilsoul
+		1 Thenebras
+		1 Atro, Eternities' Guard
+		1 Tezzeret, Bolas's Seeker
+		1 Fiery Encore
+		1 Senzu the Madman
+		1 Consumer of Worlds
+		1 Plane's Captive
+		1 Menrylia, Sylvan Heir
+		1 Ja'Madt, Warleader
+		1 Lieutenant of Madt
+		1 Soul of Ezanavi
+		1 Destiny Stone
+		1 Keled, Witness of the End
+		1 Elesh Norn of the Machine
+		1 Sev Gitaxius
+		1 Sheoldred, Blighted Thane
+		1 Urabrask, the Devourer
+		1 Korborat Thraxis
+		1 Koth, Hatred Unbound
+		1 Magnus, the Soul Stealer
+	[UncommonSlot(3)]
+		3 Aetherbond Titan
+		3 Inquisitor's Scorn
+		3 Descry
+		3 Alloy Knight
+		3 Darkworld Nuisance
+		3 Modified Thopter
+		3 Order of Norn
+		3 Skyway Hellkite
+		3 Scroll Keeper
+		3 Adaptive Blade
+		3 Axemad Monger
+		3 Imperial Elf
+		3 Soulrend
+		3 Souleater Machine
+		3 Overworld Palace
+		3 Ralixan Oasis
+		3 Tangled Ruins
+		3 Nimul Mucklands
+		3 Dreadculler Lair
+		3 Thane's Knight
+		3 Brink
+		3 Thran Probe
+		3 Ei'tal Horror
+		3 Physical Restraint
+		3 Ei'tal Betrayer
+		3 Punishing Flame
+		3 Grim Unburial
+		3 Ei'tal Predator
+		3 Talon Mantra
+		3 Tesaren Transfiguration
+		3 Tesaren Wings
+		3 Corruptive Symbiote
+		3 Lost Everything
+		3 Proven Worthy
+		3 Arcana Hunter
+		3 Madt Sword
+		3 Heroes' Reunion
+		3 Hornback Goliath
+		3 Infiltrator's Cloak
+		3 Delayed Imports
+		3 Brass Hydra
+		3 Dreadculler Agent
+		3 Final Triumph
+		3 Glacial Gloombeast
+		3 Oilfire Dragon
+		3 Skyrune
+		3 Vault of the Ancients
+		3 Wreckage Monger
+		3 Battlewise Enigma
+		3 Tesaren Protector
+		3 Brightmind Trickster
+		3 Druid Den
+		3 Warpers' Lab
+		3 Radiant Outskirts
+		3 Madt Barracks
+		3 Senzu's Hideout
+		3 Rift Storm
+		3 Walking Brambles
+		3 Sylvan Prosperity
+		3 Power from Practice
+		3 Skycoil Wurm
+		3 Overworld Cloak
+		3 Celestial Vengeance
+		3 Submerged Despair
+		3 Assured Destruction
+		3 Elite Bargains
+		3 Ride Down
+		3 Blasphemous Strength
+		3 Exiled Bloodmage
+		3 Adventurer's Hatchet
+		3 Distracting Chameleon
+		3 Banished Forerunner
+		3 Ralixan Markets
+		3 Follower of Ja'Madt
+		3 Furyborn
+		3 Norn Tinkerer
+		3 Gitaxian Deceiver
+		3 Septic Yeoman
+		3 Siege Ichorknight
+		3 Tears of your Enemies
+		3 Lich Ravager
+		3 Madt's Summons
+		3 Thane's Herald
+		3 Jagged Magmoid
+		3 Hideout
+		3 Tesaren Avenger
+		3 Biotic Dragon Engine
+		3 Ei'tal Crawler
+	[CommonSlot(10)]
+		4 Landsurge
+		4 Sunquash Colossus
+		4 Gitaxian Engine
+		4 Dragonflame Spitter
+		4 Phyretic Templar
+		4 Gather Allies
+		4 Living Probe
+		4 Ralixan Cleric
+		4 Noble Griffin
+		4 Might of the Carnivore
+		4 Steel Wall
+		4 Goblin Firecaller
+		4 Scattered Lightning
+		4 Pathway Messengers
+		4 Voice of Gix
+		4 Recycle Machinery
+		4 Silent Entity
+		4 Sowrazer Stag
+		4 Illusory Phenomenon
+		4 Pthisus Contamination
+		4 Hidden Armory
+		4 Hex Mist
+		4 Bladechild
+		4 Myr Servant
+		4 Dauntless Rage
+		4 Amphin Alchemist
+		4 Tranquil Gardens
+		4 Dreg Mob
+		4 Scion of Wind
+		4 Blood Alchemist
+		4 Smite the Monstrous
+		4 Duskbane Angel
+		4 Servants of Senzu
+		4 Urabrask Fodder
+		4 Glistening Frost
+		4 Aether Bonds
+		4 Ichorslick Blade
+		4 Blighted Shadow
+		4 Corporeal Injury
+		4 Silent Stab
+		4 Captivating Duelist
+		4 Artifice Shell
+		4 Ashen Horror
+		4 Gut Shot
+		4 Glistener Pawns
+		4 Urabrask's Emissary
+		4 Lingering Reality
+		4 Gitaxian Probe
+		4 Machine's Embrace
+		4 Mutagenic Growth
+		4 Fleshrage
+		4 Bloodmist Glider
+		4 Fatality Guise
+		4 Holy Might
+		4 Elusive Reaver
+		4 Blighted Ambition
+		4 Phyresis Drone
+		4 Ecol Guard
+		4 Tesaren Abberation
+		4 Polyglot Elf
+		4 Invasion Behemoth
+		4 Darksteel Ingot
+		4 Phyrexian Lacerator
+		4 Phyrexian Citadel
+		4 Party Reinforcement
+		4 Oilvein Elemental
+		4 Norn Sorceror
+		4 Soul Defiler
+		4 Gitaxian Auger
+		4 Praetor's Scheme
+		4 Chittering Plateling
+		4 Urabrask Mage
+		4 Sentinels of Korborat
+		4 Consult the Records
+		4 Implant Memories
+		4 Ichorflesh Mob
+		4 Burning Hands
+		4 Sylvan Conviction
+		4 Priest of Urabrask
+		4 Magma Spray
+		4 Ichordash Horror
+		4 Ichorclaw Dragon
+		4 Dalwood Meddler
+		4 Tesaren Sentry
+		4 Orthodoxy Cerebrate
+		4 Fume Spitter
+		4 Darksteel Ravager
+		4 Lone Squire
+		4 Armored Front
+	[BasicSlot(1)]
+	
