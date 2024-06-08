@@ -254,7 +254,7 @@
 	    {
 	        "name": "Order of Norn",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{H/W}{H/W}",
+	        "mana_cost": "{2}{W/P}{W/P}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Order of Norn.jpg"
@@ -1271,7 +1271,7 @@
 	    {
 	        "name": "Silent Stab",
 	        "rarity": "common",
-	        "mana_cost": "{H/B}",
+	        "mana_cost": "{B/P}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Silent Stab.jpg"
@@ -1328,7 +1328,7 @@
 	    {
 	        "name": "Gut Shot",
 	        "rarity": "common",
-	        "mana_cost": "{H/R}",
+	        "mana_cost": "{R/P}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Gut Shot.jpg"
@@ -1400,7 +1400,7 @@
 	    {
 	        "name": "Gitaxian Probe",
 	        "rarity": "common",
-	        "mana_cost": "{H/U}",
+	        "mana_cost": "{U/P}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Gitaxian Probe.jpg"
@@ -1409,7 +1409,7 @@
 	    {
 	        "name": "Machine's Embrace",
 	        "rarity": "common",
-	        "mana_cost": "{H/W}",
+	        "mana_cost": "{W/P}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Machine's Embrace.jpg"
@@ -1427,7 +1427,7 @@
 	    {
 	        "name": "Mutagenic Growth",
 	        "rarity": "common",
-	        "mana_cost": "{H/G}",
+	        "mana_cost": "{G/P}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Mutagenic Growth.jpg"
@@ -1580,7 +1580,7 @@
 	    {
 	        "name": "Rift Storm",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{H/R}",
+	        "mana_cost": "{3}{R/P}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Rift Storm.jpg"
@@ -1724,7 +1724,7 @@
 	    {
 	        "name": "Skycoil Wurm",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{H/G}{H/G}",
+	        "mana_cost": "{4}{G/P}{G/P}",
 	        "type": "Artifact Creature — Phyrexian Wurm ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Skycoil Wurm.jpg"
@@ -1793,7 +1793,7 @@
 	    {
 	        "name": "Submerged Despair",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{H/U}",
+	        "mana_cost": "{3}{U/P}",
 	        "type": "Creature — Phyrexian Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Submerged Despair.jpg"
@@ -2738,7 +2738,7 @@
 	    {
 	        "name": "Ichorclaw Dragon",
 	        "rarity": "common",
-	        "mana_cost": "{4}{H/R}{H/R}",
+	        "mana_cost": "{4}{R/P}{R/P}",
 	        "type": "Artifact Creature — Phyrexian Dragon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Ichorclaw Dragon.jpg"
@@ -2792,7 +2792,7 @@
 	    {
 	        "name": "Orthodoxy Cerebrate",
 	        "rarity": "common",
-	        "mana_cost": "{3}{H/W}{H/W}",
+	        "mana_cost": "{3}{W/P}{W/P}",
 	        "type": "Artifact Creature — Phyrexian Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Orthodoxy Cerebrate.jpg"
