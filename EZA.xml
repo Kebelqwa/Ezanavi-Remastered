@@ -235,7 +235,7 @@ Proliferate.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>
-You may have Mystic Polymorph enter the battlefield as a copy of any creature on the battlefield except it can’t be blocked.
+You may have Mystic Polymorph enter as a copy of any creature on the battlefield except it can’t be blocked.
 
 --- 
 Any number of target creatures you control each become a copy of target creature you control until end of turn.</text>
@@ -269,7 +269,7 @@ Whenever Living Probe deals combat damage to a player, that player mills two car
       <tablerow>2</tablerow>
       <text>Flying
 Smog Reaper costs {1} less to cast for each creature that died this turn.
-When Smog Reaper enters the battlefield, return each creature from a graveyard that was put there from the battlefield this turn to the battlefield under their owners control.</text>
+When Smog Reaper enters, return each creature from a graveyard that was put there from the battlefield this turn to the battlefield under their owners’ control.</text>
     </card>
     <card>
       <name>Writhing Nightmare</name>
@@ -491,7 +491,7 @@ Distribute three +1/+1 counters among up to three target creatures you control.<
       <tablerow>2</tablerow>
       <text>Trample
 At the beginning of each upkeep, if a player cast more spells last turn than the number of creatures you control, sacrifice Roilsoul.
-Whenever a land enters the battlefield under your control, untap each land you control.</text>
+Whenever a land you control enters, untap each land you control.</text>
     </card>
     <card>
       <name>Imperial Elf</name>
@@ -563,7 +563,7 @@ Noncreature spells you cast cost {1} less for each other noncreature spell you�
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Enter the Den enters the battlefield, you gain 4 life.
+      <text>When Enter the Den enters, you gain 4 life.
 Whenever you gain life, create a 2/2 white Cat creature token. This ability triggers only once each turn.</text>
     </card>
     <card>
@@ -633,7 +633,7 @@ Exile target nonland permanent.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
-Whenever Voice of Gix enters the battlefield or is dealt damage, proliferate.</text>
+Whenever Voice of Gix enters or is dealt damage, proliferate.</text>
     </card>
     <card>
       <name>Dalwood Protector</name>
@@ -664,7 +664,7 @@ Untap up to X target lands you control. They become 2/2 green Elemental creature
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, lifelink
-When Thenebras enters the battlefield, put a -1/-1 counter on each creature you don’t control.
+When Thenebras enters, put a -1/-1 counter on each creature you don’t control.
 Whenever a creature you don’t control with a -1/-1 counter on it is dealt damage, destroy that creature.</text>
     </card>
     <card>
@@ -692,7 +692,7 @@ Scry 2.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature enters the battlefield under your control, you may attach Blade of the Survivor to it.
+      <text>Whenever a creature you control enters, you may attach Blade of the Survivor to it.
 Modified creatures you control have haste. (Equipment, Auras you control, and counters are modifications.)</text>
     </card>
     <card>
@@ -752,7 +752,7 @@ Whenever a creature you control is dealt damage you may draw a card. If you do, 
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Souleater Machine enters the battlefield or attacks, target artifact creature or equipped creature gains flying until end of turn.</text>
+      <text>When Souleater Machine enters or attacks, target artifact creature or modified creature gains flying until end of turn. (Equipment, Auras you control, and counters are modifications.)</text>
     </card>
     <card>
       <name>Overworld Palace</name>
@@ -765,7 +765,7 @@ Whenever a creature you control is dealt damage you may draw a card. If you do, 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Overworld Palace enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Overworld Palace enters tapped unless you’ve cast a spell this turn.
 {T}: Add {W} or {U}.</text>
     </card>
     <card>
@@ -779,7 +779,7 @@ Whenever a creature you control is dealt damage you may draw a card. If you do, 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Ralixan Oasis enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Ralixan Oasis enters tapped unless you’ve cast a spell this turn.
 {T}: Add {G} or {W}.</text>
     </card>
     <card>
@@ -793,7 +793,7 @@ Whenever a creature you control is dealt damage you may draw a card. If you do, 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Tangled Ruins enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Tangled Ruins enters tapped unless you’ve cast a spell this turn.
 {T}: Add {R} or {G}.</text>
     </card>
     <card>
@@ -807,7 +807,7 @@ Whenever a creature you control is dealt damage you may draw a card. If you do, 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Nimul Mucklands enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Nimul Mucklands enters tapped unless you’ve cast a spell this turn.
 {T}: Add {B} or {R}.</text>
     </card>
     <card>
@@ -821,7 +821,7 @@ Whenever a creature you control is dealt damage you may draw a card. If you do, 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Dreadculler Lair enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Dreadculler Lair enters tapped unless you’ve cast a spell this turn.
 {T}: Add {U} or {B}.</text>
     </card>
     <card>
@@ -852,7 +852,7 @@ Whenever a creature you control is dealt damage you may draw a card. If you do, 
       <tablerow>2</tablerow>
       <text>Lifelink
 Protection from creatures with one or more counters.
-When Thane’s Knight enters the battlefield, put a -1/-1 counter on up to one target creature.</text>
+When Thane’s Knight enters, put a -1/-1 counter on up to one target creature.</text>
     </card>
     <card>
       <name>Brink</name>
@@ -867,7 +867,7 @@ When Thane’s Knight enters the battlefield, put a -1/-1 counter on up to one t
       <tablerow>3</tablerow>
       <text>Counter target spell or ability unless its controller pays {2}.
 --- 
-Exile any number of target creatures you control. Then return those cards to the battlefield under their owner’s control.</text>
+Exile any number of target creatures you control. Then return them to the battlefield under their owner’s control.</text>
     </card>
     <card>
       <name>Sowrazer Stag</name>
@@ -957,8 +957,8 @@ If enchanted permanent is a creature, damage that would be dealt to it is dealt 
         <pt>0/0</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ei’tal Horror enters the battlefield with three +1/+1 counters.
-At the beginning of each combat on your turn, you may move a +1/+1 counter from Ei’tal Horror to a nonartifact creature you control. If you do, Ei’tal Horror gets +2/+2 until end of turn.</text>
+      <text>Ei’tal Horror enters with three +1/+1 counters.
+At the beginning of each combat on your turn, move a +1/+1 counter from Ei’tal Horror to up to one target nonartifact creature you control. If you do, Ei’tal Horror gets +2/+2 until end of turn.</text>
     </card>
     <card>
       <name>Hidden Armory</name>
@@ -984,7 +984,7 @@ At the beginning of each combat on your turn, you may move a +1/+1 counter from 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Prevent all combat damage that would be dealt to target creature you control this turn. If a land entered the battlefield under your control this turn, prevent all damage that would be dealt to each creature you control instead.</text>
+      <text>Prevent all combat damage that would be dealt to target creature you control this turn. If a land you control entered this turn, prevent all damage that would be dealt to each creature you control instead.</text>
     </card>
     <card>
       <name>Physical Restraint</name>
@@ -1013,7 +1013,7 @@ Whenever enchanted creature is dealt damage, you may attach Physical Restraint t
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-When Ei’tal Betrayer enters the battlefield or dies, choose a kind of counter. Double the number of counters of that kind on target creature.</text>
+When Ei’tal Betrayer enters or dies, choose a kind of counter. Double the number of counters of that kind on target creature.</text>
     </card>
     <card>
       <name>Punishing Flame</name>
@@ -1055,7 +1055,7 @@ Echo 4RR (At the beginning of your upkeep, if this came under your control since
         <pt>0/0</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bladechild enters the battlefield with a Sword attached to it.</text>
+      <text>Bladechild enters with a Sword attached to it.</text>
     </card>
     <card>
       <name>Grim Unburial</name>
@@ -1068,7 +1068,7 @@ Echo 4RR (At the beginning of your upkeep, if this came under your control since
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature card from your graveyard to the battlefield. It gains haste until end of turn and attacks this turn if able. Sacrifice it at the next end step.
+      <text>Return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn and attacks this turn if able. Sacrifice it at the beginning of the next end step.
 --- 
 Return target creature card from your graveyard to the battlefield.</text>
     </card>
@@ -1086,7 +1086,7 @@ Return target creature card from your graveyard to the battlefield.</text>
       <tablerow>2</tablerow>
       <text>Flying
 Land cards in your hand have cycling {0}.
-When Atro enters the battlefield, if you cast it, discard your hand. Then draw two cards for each card discarded this way.
+When Atro enters, if you cast it, discard your hand. Then draw two cards for each card discarded this way.
 Cycling 2U</text>
     </card>
     <card>
@@ -1145,7 +1145,7 @@ Enchanted player can’t win the game and their opponents can’t lose the game 
       <tablerow>3</tablerow>
       <text>Target creature you control gets +1/+0 and gains haste until end of turn.
 --- 
-Rageflame X damage to target player or planeswalker, where X is the greatest power among creatures that entered the battlefield this turn.</text>
+Rageflame X damage to target player or planeswalker, where X is the greatest power among creatures that entered this turn.</text>
     </card>
     <card>
       <name>Talon Mantra</name>
@@ -1215,7 +1215,7 @@ Draw a card</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Tranquil Gardens enters the battlefield, draw a card.
+      <text>When Tranquil Gardens enters, draw a card.
 Enchant land
 Whenever enchanted land is tapped for mana, its controller adds one mana of any color.</text>
     </card>
@@ -1230,7 +1230,7 @@ Whenever enchanted land is tapped for mana, its controller adds one mana of any 
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Mana Gauntlet enters the battlefield with X charge counters.
+      <text>Mana Gauntlet enters with X charge counters.
 {T}: Add {C} for each charge counter on Mana Gauntlet.</text>
     </card>
     <card>
@@ -1376,7 +1376,7 @@ Whenever Duskbane Angel or another creature you control is dealt damage, you gai
         <pt>0/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Disciple of Madt enters the battlefield with two Sword tokens attached to it. (They’re Equipment artifact tokens with “Equipped creature gets +1/+1.” and equip {2}.)
+      <text>Disciple of Madt enters with two Sword tokens attached to it. (They’re Equipment artifact tokens with “Equipped creature gets +1/+1.” and equip {2}.)
 Modified creatures you control have double strike. (Equipment, Auras you control, and counters are modifications.)</text>
     </card>
     <card>
@@ -1444,7 +1444,7 @@ Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>As Torment Engine enters the battlefield, choose a creature or planeswalker card name.
+      <text>As Torment Engine enters, choose a creature or planeswalker card name.
 Spells with the chosen name can’t be cast.</text>
     </card>
     <card>
@@ -1474,7 +1474,7 @@ Spells with the chosen name can’t be cast.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Ghostfire Hellhound enters the battlefield or dies, it deals 2 damage to target creature you don’t control.
+      <text>When Ghostfire Hellhound enters or dies, it deals 2 damage to target creature you don’t control.
 Echo 1RR (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
     </card>
     <card>
@@ -1503,7 +1503,7 @@ Equip {4}</text>
     <pt>0/0</pt>
       </prop>
       <tablerow>3</tablerow>
-      <text>You may have Tesaren Transmuter enter the battlefield as a copy another creature you control.
+      <text>You may have Tesaren Transmuter enter as a copy another creature you control.
 When another creature with the same name as Tesaren Transmuter dies, sacrifice Tesaren Transmuter.
 --- 
 Until end of turn, Target creature you control becomes a copy of another target creature you control.</text>
@@ -1649,7 +1649,7 @@ Equip {5}</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When Brass Hydra enters the battlefield, choose one—
+When Brass Hydra enters, choose one—
 • Target creature you control gets +2/+2 until end of turn.
 • Target creature an opponent controls gets -2/-2 until end of turn.</text>
     </card>
@@ -1740,7 +1740,7 @@ Echo 2R (At the beginning of your upkeep, if this came under your control since 
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-When Aether Bonds enters the battlefield, tap target creature.
+When Aether Bonds enters, tap target creature.
 Enchanted creature doesn’t untap during its controller’s untap step.
 {8}: Return enchanted creature and Aether Bonds each to their owners’ hands.</text>
     </card>
@@ -1814,7 +1814,7 @@ When Blighted Shadow dies, move its -1/-1 counters to another target creature.</
       </prop>
       <tablerow>2</tablerow>
       <text>
-When Captivating Duelist enters the battlefield, you may attach an Equipment you control to it.</text>
+When Captivating Duelist enters, you may attach an Equipment you control to it.</text>
     </card>
     <card>
       <name>Artifice Shell</name>
@@ -1845,7 +1845,7 @@ Create a 3/3 colorless Phyrexian Golem artifact creature token.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Ashen Horror enters the battlefield, discard two cards then draw two cards.
+When Ashen Horror enters, discard two cards then draw two cards.
 Echo 1R (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</text>
     </card>
     <card>
@@ -1860,7 +1860,7 @@ Echo 1R (At the beginning of your upkeep, if this came under your control since 
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Senzu is dealt damage, return all creature cards that were put into a graveyard from the battlefield this turn from all graveyards to the battlefield tapped under their owners’ control.</text>
+      <text>Whenever Senzu is dealt damage, return all creature cards from graveyards that were put there from the battlefield this turn to the battlefield tapped under their owners’ control.</text>
     </card>
     <card>
       <name>Gut Shot</name>
@@ -1887,8 +1887,8 @@ Echo 1R (At the beginning of your upkeep, if this came under your control since 
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Glistener Pawns enters the battlefield with a number of -1/-1 counter on it equal to the number of creatures you don’t control.
-Whenever a creature enters the battlefield under an opponents control, you may move a -1/-1 counter from Glistener Pawns onto that creature.</text>
+      <text>Glistener Pawns enters with a number of -1/-1 counter equal to the number of creatures you don’t control.
+Whenever a creature an opponent controls enters, you may move a -1/-1 counter from Glistener Pawns onto that creature.</text>
     </card>
     <card>
       <name>Senzu&apos;s Doomspeaker</name>
@@ -1917,7 +1917,7 @@ Creatures deal damage as though they had wither. (They deal damage to other crea
       </prop>
       <tablerow>1</tablerow>
       <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
-When Skyrune enters the battlefield, exile two target nonland permanents until Skyrune leaves the battlefield.</text>
+When Skyrune enters, exile up to two target nonland permanents until Skyrune leaves the battlefield.</text>
     </card>
     <card>
       <name>Consumer of Worlds</name>
@@ -2145,7 +2145,7 @@ When Wreckage Monger dies, you may sacrifice a creature. If you do, put Wreckage
       <tablerow>2</tablerow>
       <text>Flash
 Lifelink
-When Tesaren Protector enters the battlefield, return a creature you control and a creature you don’t control each to their owners’ hands.</text>
+When Tesaren Protector enters, you may return another target creature you control and target creature you don’t control each to their owners’ hands.</text>
     </card>
     <card>
       <name>Brightmind Trickster</name>
@@ -2188,7 +2188,7 @@ XR: Aftermath Hellkite deals X damage to target creature that was dealt damage t
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Druid Den enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Druid Den enters tapped unless you’ve cast a spell this turn.
 {T} Add {G} or {U}.</text>
     </card>
     <card>
@@ -2202,7 +2202,7 @@ XR: Aftermath Hellkite deals X damage to target creature that was dealt damage t
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Warpers’ Lab enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Warpers’ Lab enters tapped unless you’ve cast a spell this turn.
 {T} Add {U} or {R}.</text>
     </card>
     <card>
@@ -2216,7 +2216,7 @@ XR: Aftermath Hellkite deals X damage to target creature that was dealt damage t
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Radiant Outskirts enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Radiant Outskirts enters tapped unless you’ve cast a spell this turn.
 {T} Add {W} or {B}.</text>
     </card>
     <card>
@@ -2230,7 +2230,7 @@ XR: Aftermath Hellkite deals X damage to target creature that was dealt damage t
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Madt Barracks enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Madt Barracks enters tapped unless you’ve cast a spell this turn.
 {T} Add {R} or {W}.</text>
     </card>
     <card>
@@ -2244,7 +2244,7 @@ XR: Aftermath Hellkite deals X damage to target creature that was dealt damage t
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Senzu’s Hideout enters the battlefield tapped unless you’ve cast a spell this turn.
+      <text>Senzu’s Hideout enters tapped unless you’ve cast a spell this turn.
 {T} Add {B} or {G}.</text>
     </card>
     <card>
@@ -2287,7 +2287,7 @@ When enchanted creature dies, put X -1/-1 counters on target creature, where X i
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a land enters the battlefield under your control, untap Walking Brambles.
+      <text>Whenever a land you control enters, untap Walking Brambles.
 {T}: Put a +1/+1 counter on Walking Brambles.</text>
     </card>
     <card>
@@ -2303,7 +2303,7 @@ When enchanted creature dies, put X -1/-1 counters on target creature, where X i
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +3/+3.
-Whenever a creature enters the battlefield under your control, you may attach Sylvan Prosperity to it.</text>
+Whenever a creature you control enters, you may attach Sylvan Prosperity to it.</text>
     </card>
     <card>
       <name>Power from Practice</name>
@@ -2330,7 +2330,7 @@ Enchanted creature gets +3/+3 and has hexproof.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When World Fracture enters the battlefield, create a 1/1 white Phyrexian Soldier creature token.
+      <text>When World Fracture enters, create a 1/1 white Phyrexian Soldier creature token.
 Whenever a creature you control is dealt damage, you gain 1 life.
 Whenever a creature you don’t control dies its controller loses 1 life.</text>
     </card>
@@ -2391,7 +2391,7 @@ Whenever Dalwood Titan is dealt damage, draw a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Plane’s Captive enters the battlefield, exile target creature until Plane’s Captive leaves the battlefield.
+When Plane’s Captive enters, exile target creature until Plane’s Captive leaves the battlefield.
 Whenever Plane’s Captive is dealt damage, exile target creature until Plane’s Captive leaves the battlefield.</text>
     </card>
     <card>
@@ -2738,7 +2738,7 @@ Whenever Punisher Demon attacks, you may have it deal damage equal to its power 
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Exiled Bloodmage enters the battlefield, it deals 2 damage to up to one other target creature and 2 damage to you.</text>
+      <text>When Exiled Bloodmage enters, you may have it deals 2 damage to another target creature. If you do, Exiled Bloodmage 2 damage to you.</text>
     </card>
     <card>
       <name>Adventurer&apos;s Hatchet</name>
@@ -2768,7 +2768,7 @@ Equip {1}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Exile equipped creature: Exile another target creature.
-Whenever Banisher’s Vault becomes attached to a creature, return all other cards exiled by it to the battlefield under their owners’ control.
+Whenever Banisher’s Vault becomes attached to a creature, return all other cards exiled with it to the battlefield under their owners’ control.
 Equip 2W</text>
     </card>
     <card>
@@ -2920,7 +2920,7 @@ Echo 1RR (At the beginning of your upkeep, if this came under your control since
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Polyglot Elf enters the battlefield, create a 2/2 green Wolf creature token.</text>
+      <text>When Polyglot Elf enters, create a 2/2 green Wolf creature token.</text>
     </card>
     <card>
       <name>Furyborn</name>
@@ -2963,7 +2963,7 @@ Target creature gains first strike and haste until end of turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>
-Invasion Behemoth can’t be blocked by more than one creature as long as a land entered the battlefield under your control this turn.</text>
+Invasion Behemoth can’t be blocked by more than one creature as long as a land you control entered this turn.</text>
     </card>
     <card>
       <name>Darksteel Ingot</name>
@@ -2991,7 +2991,7 @@ Invasion Behemoth can’t be blocked by more than one creature as long as a land
         <pt>4/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Phyrexian Lacerator enters the battlefield with two -1/-1 counters.
+      <text>Phyrexian Lacerator enters with two -1/-1 counters.
 Whenever Phyrexian Lacerator attacks, you may remove a -1/-1 counter from it. If you do, it gains lifelink until end of turn.</text>
     </card>
     <card>
@@ -3005,7 +3005,7 @@ Whenever Phyrexian Lacerator attacks, you may remove a -1/-1 counter from it. If
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Destiny Stone enters the battlefield, exile all planeswalkers.
+      <text>When Destiny Stone enters, exile all planeswalkers.
 Players can’t cast planeswalker spells.
 {6}, Sacrifice Destiny Stone: Destroy all nonland permanents</text>
     </card>
@@ -3021,8 +3021,8 @@ Players can’t cast planeswalker spells.
         <pt>0/0</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Weaponized Myr enters the battlefield with five +1/+1 counters.
-At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized Myr. If you do, create a 1/1 colorless Myr artifact creature token.</text>
+      <text>Weaponized Myr enters with five +1/+1 counters.
+At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized Myr. When you do, create a 1/1 colorless Myr artifact creature token.</text>
     </card>
     <card>
       <name>Brambled Slope</name>
@@ -3035,7 +3035,7 @@ At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>As Brambled Slope enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+      <text>As Brambled Slope enters, you may exile two cards from your graveyard. If you don’t, it enters tapped.
 {T}: Add {R} or {G}.</text>
     </card>
     <card>
@@ -3049,7 +3049,7 @@ At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>As Canopy Enclave enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+      <text>As Canopy Enclave enters, you may exile two cards from your graveyard. If you don’t, it enters tapped.
 {T}: Add {G} or {W}.</text>
     </card>
     <card>
@@ -3063,7 +3063,7 @@ At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>As Crumbling Crucible enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+      <text>As Crumbling Crucible enters, you may exile two cards from your graveyard. If you don’t, it enters tapped.
 {T}: Add {B} or {R}.</text>
     </card>
     <card>
@@ -3077,7 +3077,7 @@ At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>As Frozen Waterfall enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+      <text>As Frozen Waterfall enters, you may exile two cards from your graveyard. If you don’t, it enters tapped.
 {T}: Add {W} or {U}.</text>
     </card>
     <card>
@@ -3091,8 +3091,8 @@ At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Phyrexian Citadel enters the battlefield tapped.
-{T}: Add {C}. You may sacrifice Phyrexian Citadel. If you do, search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+      <text>Phyrexian Citadel enters tapped.
+{T}: Add {C}. You may sacrifice Phyrexian Citadel. When you do, search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
     </card>
     <card>
       <name>Sunken Mire</name>
@@ -3105,7 +3105,7 @@ At the beginning of your upkeep, you may remove a +1/+1 counter from Weaponized 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>As Sunken Mire enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+      <text>As Sunken Mire enters, you may exile two cards from your graveyard. If you don’t, it enters tapped.
 {T}: Add {U} or {B}.</text>
     </card>
     <card>
@@ -3209,7 +3209,7 @@ When Norn’s Tinkerer dies, you may sacrifice another permanent. If you do, cre
         <pt>0/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever another creature enters the battlefield under your control, you gain 1 life.
+      <text>Whenever another creature you control enters, you gain 1 life.
 3H/W, {T}: Create a 1/1 colorless Myr artifact creature token.</text>
     </card>
     <card>
@@ -3225,7 +3225,7 @@ When Norn’s Tinkerer dies, you may sacrifice another permanent. If you do, cre
       </prop>
       <tablerow>2</tablerow>
       <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
-When Gitaxian Auger enters the battlefield draw a card.</text>
+When Gitaxian Auger enters, draw a card.</text>
     </card>
     <card>
       <name>Gitaxian Deceiver</name>
@@ -3256,7 +3256,7 @@ Whenever one or more creatures you don’t control become tapped, you may untap 
       </prop>
       <tablerow>2</tablerow>
       <text>Wither
-When Mindflay Amalgam enters the battlefield or attacks, exile the top three cards of each opponent’s library.
+When Mindflay Amalgam enters or attacks, exile the top three cards of each opponent’s library.
 Mindflay Amalgam has all activated abilities of creature cards exiled with it.</text>
     </card>
     <card>
@@ -3656,7 +3656,7 @@ Put a +1/+1 counter on target creature you control.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Flash
-When Tesaren Avenger enters the battlefield, scry 2.
+When Tesaren Avenger enters, scry 2.
 --- 
 Scry 4 then draw a card.</text>
     </card>
@@ -3672,7 +3672,7 @@ Scry 4 then draw a card.</text>
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Priest of Urabrask enters the battlefield, add RRR.</text>
+      <text>When Priest of Urabrask enters, add RRR.</text>
     </card>
     <card>
       <name>Magma Spray</name>
@@ -3793,7 +3793,7 @@ If an effect would put one or more counters on a permanent you control, it puts 
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Dalwood Meddler enters the battlefield, put a +1/+1 counter target creature.</text>
+When Dalwood Meddler enters, put a +1/+1 counter target creature.</text>
     </card>
     <card>
       <name>Tesaren Sentry</name>

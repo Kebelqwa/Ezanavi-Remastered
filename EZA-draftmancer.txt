@@ -551,7 +551,7 @@
 	    {
 	        "name": "Souleater Machine",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{P}",
+	        "mana_cost": "{3}P",
 	        "type": "Artifact Creature — Phyrexian Construct ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kebelqwa/Ezanavi-Remastered/main/EZA-files/Souleater Machine.jpg"
@@ -2845,72 +2845,72 @@
 	    }
 	]
 	[RareSlot(1)]
-		3 Ghostblade Spirit
-		3 Blazing Abomination
-		3 Malfunction Myr
-		3 Mystic Polymorph
-		3 Smog Reaper
-		3 Writhing Nightmare
-		3 Warper's Amulet
-		3 Path of War
-		3 Menrylia's Chosen
-		3 Sylvan Gift
-		3 Overworld Ghast
-		3 Enter the Den
-		3 Ezanavi Apocalypse
-		3 Dalwood Protector
-		3 Blade of the Survivor
-		3 Overworld Sage
-		3 Dreadculler Headhunter
-		3 Lunar Gateway
-		3 Adapted Warhorse
-		3 Scion of the Lotus
-		3 Consuming Curse
-		3 Fairglade Elf
-		3 Mana Gauntlet
-		3 Blunt Diplomacy
-		3 Necrogen Outbreak
-		3 Disciple of Madt
-		3 Blisterflame
-		3 Torment Engine
-		3 Ghostfire Hellhound
-		3 Tesaren Transmuter
-		3 Unfettered Virtue
-		3 Call from Beyond
-		3 Senzu's Doomspeaker
-		3 Orthodoxy Activation
-		3 Darkworld Equinox
-		3 Brutal Cataclysm
-		3 Madt Avenged
-		3 Aftermath Hellkite
-		3 World Fracture
-		3 Arcane Recurve
-		3 Dalwood Titan
-		3 Whispering Shaman
-		3 Fire with Fire
-		3 Chancellor of Riddles
-		3 Fall
-		3 Warp Bolt
-		3 Demigod Chant
-		3 Madness at the Morgue
-		3 Aspect of Kord
-		3 Sentient Sentinel
-		3 Hardships Undone
-		3 Punisher Demon
-		3 Banisher's Vault
-		3 Alien Objective
-		3 Weaponized Myr
-		3 Brambled Slope
-		3 Canopy Enclave
-		3 Crumbling Crucible
-		3 Frozen Waterfall
-		3 Sunken Mire
-		3 Mindflay Amalgam
-		3 Cavern Thane
-		3 Ruinator Thane
-		3 Knight of Fallen Ralixa
-		3 Unwinding Paths
-		3 Doubling Season
+		2 Ghostblade Spirit
+		2 Blazing Abomination
+		2 Malfunction Myr
+		2 Mystic Polymorph
+		2 Smog Reaper
+		2 Writhing Nightmare
+		2 Warper's Amulet
+		2 Path of War
+		2 Menrylia's Chosen
+		2 Sylvan Gift
+		2 Overworld Ghast
+		2 Enter the Den
+		2 Ezanavi Apocalypse
+		2 Dalwood Protector
+		2 Blade of the Survivor
+		2 Overworld Sage
+		2 Dreadculler Headhunter
+		2 Lunar Gateway
+		2 Adapted Warhorse
+		2 Scion of the Lotus
+		2 Consuming Curse
+		2 Fairglade Elf
+		2 Mana Gauntlet
+		2 Blunt Diplomacy
+		2 Necrogen Outbreak
+		2 Disciple of Madt
+		2 Blisterflame
+		2 Torment Engine
+		2 Ghostfire Hellhound
+		2 Tesaren Transmuter
+		2 Unfettered Virtue
+		2 Call from Beyond
+		2 Senzu's Doomspeaker
+		2 Orthodoxy Activation
+		2 Darkworld Equinox
+		2 Brutal Cataclysm
+		2 Madt Avenged
+		2 Aftermath Hellkite
+		2 World Fracture
+		2 Arcane Recurve
+		2 Dalwood Titan
+		2 Whispering Shaman
+		2 Fire with Fire
+		2 Chancellor of Riddles
+		2 Fall
+		2 Warp Bolt
+		2 Demigod Chant
+		2 Madness at the Morgue
+		2 Aspect of Kord
+		2 Sentient Sentinel
+		2 Hardships Undone
+		2 Punisher Demon
+		2 Banisher's Vault
+		2 Alien Objective
+		2 Weaponized Myr
+		2 Brambled Slope
+		2 Canopy Enclave
+		2 Crumbling Crucible
+		2 Frozen Waterfall
+		2 Sunken Mire
+		2 Mindflay Amalgam
+		2 Cavern Thane
+		2 Ruinator Thane
+		2 Knight of Fallen Ralixa
+		2 Unwinding Paths
+		2 Doubling Season
 		1 Roilsoul
 		1 Thenebras
 		1 Atro, Eternities' Guard
@@ -3111,5 +3111,3 @@
 		4 Darksteel Ravager
 		4 Lone Squire
 		4 Armored Front
-	[BasicSlot(1)]
-	
